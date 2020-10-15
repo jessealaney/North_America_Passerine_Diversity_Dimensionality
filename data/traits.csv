@@ -1,0 +1,920 @@
+﻿HBW_Scientific_Name,HWI,Body mass (log),Range Size,Island,Latitude,AnnualTemp,TempRange,AnnualPrecip,PrecipRange,Realm,TrophicLevel,TrophicNiche,ForagingNiche,Habitat,Migration-3,Territoriality
+Acanthidops bairdi,17.07139927,1.204119983,4,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Acanthis flammea,33.27918853,1.113943352,1975,0.01721519,61.99,-5.337008605,44.12380238,530.7249885,52.13793367,Palearctic,Herbivore,Granivore,Generalist,dense,directional migratory,weak
+Agelaius assimilis,22.875064,1.678336247,8,0.5,NA,25.26175,15.06552895,1252.194211,164.2036316,Neotropic,Omnivore,Omnivore,NA,open,resident,weak
+Agelaius humeralis,24.80622941,1.559786968,20,0.2,21.23,25.07110968,15.42715806,1278.440968,171.2272677,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Agelaius phoeniceus,23.98514879,1.705692697,1421,0.013370866,42.27,8.341984686,37.66570363,787.7721385,82.99459675,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Agelaius tricolor,31.16671448,1.762828553,39,0.025641026,38.01,12.53582412,29.0126098,622.7840196,108.4679316,Nearctic,Omnivore,Invertivore,Invertivore ground,semi-open,directional migratory,weak
+Agelaius xanthomus,20.96988969,1.584331224,6,1,18.46,25.150825,12.985425,1556.065,138.200075,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Aimophila notosticta,8.31266956,1.432969291,8,0,17.17,20.3232375,20.0497,1375.920625,277.4562163,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Aimophila rufescens,9.123655021,1.53529412,110,0,19.12,21.77550878,20.36445216,1396.715324,257.2009978,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Aimophila ruficeps,12.79795442,1.271609301,213,0.009389671,30.27,16.36883909,31.73744203,615.0046199,109.5265359,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,resident,strong
+Alauda arvensis,36.037405,1.571825249,2644,0.020045386,51.57,2.395555963,42.47183119,519.1395704,63.17414416,Palearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Allenia fusca,23.50261623,1.826528306,11,1,15.18,25.65066429,9.785945,1743.692857,158.2113,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Amaurospiza moesta,13.35939831,1.133538908,71,0,-24.32,19.72513505,18.94182371,1543.182268,144.1434028,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,resident,weak
+Amblycercus holosericeus,11.90412534,1.847696021,205,0.029268293,6.64,22.8847676,14.43451251,1946.285452,254.5845903,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Ammodramus savannarum,21.07267329,1.245759356,612,0.024509804,38,11.75463657,36.05070825,886.2082153,83.43150986,Nearctic,Omnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Ammospiza caudacuta,18.87049425,1.283074975,22,0,NA,3.764009716,43.31923448,705.7422557,61.02129235,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Ammospiza leconteii,18.78894799,1.113943352,484,0,52.3,0.502180642,47.49379529,572.7363797,59.85007799,Nearctic,Omnivore,Granivore,Granivore ground,open,directional migratory,weak
+Ammospiza maritima,14.79730483,1.345569756,59,0,33.41,17.0481242,29.68569012,1267.92863,85.48995556,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Ammospiza nelsoni,21.93314803,1.179264464,351,0,48.93,3.764009716,43.31923448,705.7422557,61.02129235,Nearctic,Omnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Amphispiza bilineata,17.71905075,1.130333768,293,0.013651877,32.55,15.08918831,34.01977985,388.3989597,63.35038033,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Amphispiza quinquestriata,12.05279069,1.290702243,26,0,26.93,18.98096061,29.72957879,664.6952121,169.1282363,Nearctic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Anabacerthia variegaticeps,18.37438344,1.444044796,66,0,11.04,22.59418161,14.67609368,2090.744552,292.3563293,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Anthus cervinus,25.05778176,1.320146286,449,0.037861915,67.22,-9.203656834,46.39425236,388.4282507,40.63190416,Palearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Anthus lutescens,6.370120172,1.100370545,713,0.001402525,-15.23,22.63468414,18.04876645,1385.373415,192.4728206,Neotropic,Carnivore,Invertivore,Invertivore ground,open,resident,weak
+Anthus pratensis,23.2324211,1.264817823,745,0.017449664,57.96,3.820833183,32.05541912,700.4628325,52.63416804,Palearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Anthus rubescens,28.37522504,1.315550534,2218,0.022091975,59.84,-6.446720669,44.92815375,495.9851781,59.67078038,Palearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Anthus spragueii,26.36121198,1.40654018,234,0,50.24,2.906261389,45.58826702,449.1370213,59.81759803,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Aphanotriccus audax,16.80002036,1.049992857,17,0,8.61,25.710372,11.347996,2191,292.739604,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Aphanotriccus capitalis,17.33708624,1.071882007,9,0,11.19,24.49101,11.57516,3277.283,426.16539,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Aphelocoma californica,15.48527766,1.933183479,295,0.020338983,33.31,13.21283312,33.48882083,491.1893858,79.93733676,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Aphelocoma coerulescens,16.48080076,1.887167021,10,0,28.09,21.88751333,23.85470667,1282.954667,149.8542533,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Aphelocoma ultramarina,18.19306079,2.054344889,88,0,25.67,17.48528182,28.60269636,643.7892727,138.8716435,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Aphelocoma unicolor,16.52709969,2.093421685,26,0,16.9,22.11115957,17.84701915,1628.235511,283.5990628,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Aphelocoma wollweberi,18.19306079,2.054344889,88,0,25.67,17.48528182,28.60269636,643.7892727,138.8716435,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Arremon atricapillus,9.06567976,NA,NA,NA,6.93,22.02793929,11.2214725,2641.232857,301.33185,NA,NA,NA,NA,dense,resident,weak
+Arremon aurantiirostris,11.54675945,1.537819095,123,0.016260163,6.12,23.46155235,12.47287965,2441.726529,269.0909147,Neotropic,Herbivore,Omnivore,NA,dense,resident,strong
+Arremon brunneinucha,10.29256656,1.643156466,162,0,5.64,21.43025936,14.53270659,1924.178977,243.944928,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,strong
+Arremon costaricensis,9.06567976,NA,NA,NA,6.93,22.02793929,11.2214725,2641.232857,301.33185,NA,NA,NA,NA,dense,resident,weak
+Arremon crassirostris,12.01612903,1.587823171,9,0,9.16,23.79435556,10.93991111,2884.557778,336.9960444,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,weak
+Arremon virenticeps,10.98080691,1.612783857,24,0,21.32,19.07065185,23.05266296,949.0855185,216.8862219,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Arremonops chloronotus,6.831370683,1.437750563,34,0.088235294,17.64,24.5978087,15.97033478,1646.801609,234.0076543,Neotropic,Herbivore,Omnivore,NA,dense,resident,strong
+Arremonops conirostris,8.147392742,1.554973458,161,0.00621118,6.9,24.98287368,11.94111162,2049.239004,278.7634627,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Arremonops rufivirgatus,8.602503735,1.350829274,85,0.047058824,19.68,23.80767436,19.5582359,1265.392598,237.7820586,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Artemisiospiza belli,16.80546541,1.230193379,165,0.018181818,38.94,9.630621675,37.08733351,358.9208418,42.52070935,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,NA,weak
+Artemisiospiza nevadensis,16.80546541,1.230193379,165,0.018181818,38.94,9.630621675,37.08733351,358.9208418,42.52070935,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,NA,weak
+Atalotriccus pilaris,8.780948667,0.832508913,111,0.009009009,7.66,25.45799865,12.39774189,1774.547101,259.855628,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,strong
+Atlapetes albinucha,9.50265285,1.529430354,72,0,18.43,20.80935,19.48545,1530.49845,262.7476015,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Atlapetes pileatus,10.80785112,1.380211242,62,0,20.99,19.9574625,23.082435,969.8373,211.6714775,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Atticora pileata,52.51803065,1.086359831,16,0,15.38,22.50954,16.263775,2011.922,328.823424,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,resident,none
+Atticora tibialis,43.11503759,1.025305865,448,0,-4.33,24.77301523,13.11745334,2335.777465,255.3347884,Neotropic,Carnivore,Invertivore,Invertivore aerial,dense,resident,none
+Attila spadiceus,14.7533168,1.592176757,747,0.009370817,0.62,25.11824936,13.47600732,2173.890223,264.6503114,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Auriparus flaviceps,14.36927536,0.832508913,200,0.02,29.06,18.67298867,31.54224963,426.9940378,78.24825199,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Automolus ochrolaemus,17.37425066,1.604226053,628,0.001592357,-1.91,25.16638048,13.31451361,2341.915488,269.4764976,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Automolus subulatus,19.82905126,1.459392488,316,0,-3.15,25.05399958,12.73383582,2522.245061,246.5394935,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Baeolophus atricristatus,14.63697328,1.243038049,80,0,28.08,19.66078137,30.62377549,627.4327157,95.37528794,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Baeolophus bicolor,15.59651598,1.334453751,288,0,36.85,13.57606303,35.24562875,1120.828761,70.94788448,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Baeolophus inornatus,14.39498343,1.200576927,34,0.058823529,37.3,10.61548751,36.75751055,390.5262598,52.76106986,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Baeolophus ridgwayi,10.54483981,1.200303183,122,0,NA,10.61548751,36.75751055,390.5262598,52.76106986,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Baeolophus wollweberi,16.50536881,1.017033339,80,0,24.23,18.60829305,26.88553619,787.3522381,174.758654,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Bangsia arcaei,26.55490494,1.57054294,12,0,9.71,24.16176364,11.27799364,2884.344545,358.3078727,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Basileuterus auricapilla,15.81552663,1.029383778,72,0,18.55,21.7149967,19.7765989,1328.788527,265.0517236,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Basileuterus belli,18.19342978,1.021189299,647,0.00618238,-8.36,23.08949039,17.03657596,1511.954167,208.7484942,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Basileuterus ignotus,12.63636364,1.03702788,2,0,7.97,25.2333,9.85,2448.04,307.1247,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Basileuterus lachrymosus,17.05768707,1.408239965,77,0,34.45,16.83567028,25.5964908,711.1577275,108.107961,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Basileuterus melanogenys,12.63313008,1.071882007,7,0,9.33,23.66543333,11.98587778,3135.895556,394.6932444,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Basileuterus rufifrons,11.5622808,1.017033339,147,0.006802721,21.3,20.57054355,23.0525871,1126.087637,228.4805855,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Basileuterus tristriatus,14.19824026,1.080265627,128,0,-0.94,20.62989584,13.6141095,1979.416975,213.1834417,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Bombycilla cedrorum,35.59548638,1.499412126,816,0,47.11,4.546294754,40.75550739,784.9607196,66.42547287,Nearctic,Herbivore,Frugivore,Fugivore glean,semi-open,directional migratory,none
+Bombycilla garrulus,35.77119506,1.735678726,1371,0.005835157,60.72,-4.907506732,49.02427423,475.6755485,57.14464572,Palearctic,Herbivore,Omnivore,NA,dense,directional migratory,none
+Cacicus cela,27.52681533,1.931712067,812,0.002463054,-3.76,25.40751598,13.60269695,2065.436873,259.4601133,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Cacicus microrhynchus,25.64778781,1.78653848,55,0,3.81,22.05977113,12.02974521,2424.272613,264.1556185,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Calamospiza melanocorys,24.31225511,1.575187845,249,0,42.86,7.816948046,43.00145232,460.2014937,61.53478346,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Calcarius lapponicus,30.83074243,1.444669231,1154,0.031195841,67.2,-10.03790982,44.46960983,390.0552391,41.05957756,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Calcarius ornatus,26.71589125,1.307496038,217,0,47.42,5.008165537,45.31642479,418.1909174,60.90033074,Nearctic,Omnivore,Granivore,Granivore ground,open,directional migratory,weak
+Calcarius pictus,28.11385284,1.425860145,582,0,64.32,-9.107782133,47.80335722,354.2403833,44.09747544,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Calyptophilus frugivorus,13.21798234,1.506505032,6,0,18.72,24.20915455,14.66636364,1471.22,175.2589818,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Calyptophilus tertius,7.867877374,1.691965103,2,0,NA,24.20915455,14.66636364,1471.22,175.2589818,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Camptostoma imberbe,14.09695764,0.86923172,165,0.024242424,20.22,22.21849823,21.15867168,1204.675456,225.0217473,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Camptostoma obsoletum,14.20584078,0.908485019,1247,0.001603849,-9.24,23.87555991,15.71275417,1739.129364,220.2943822,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Campylorhamphus pusillus,15.99801802,1.607455023,58,0,3.11,21.83522125,11.67129125,2505.503713,253.6026991,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Campylorhamphus trochilirostris,15.10595058,1.610660163,747,0,-8.76,24.42850957,15.66152243,1615.03514,213.0622688,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Campylorhynchus albobrunneus,14.97548625,1.517195898,19,0,6.13,24.97562414,9.654820345,3773.495862,340.7353031,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Campylorhynchus brunneicapillus,13.71787721,1.589949601,208,0.024038462,29.02,18.40210216,31.23212827,423.7152233,80.05982355,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,open,resident,strong
+Campylorhynchus chiapensis,11.98732065,1.706717782,2,0,15.54,24.7989,18.11636,1945.29,388.162494,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Campylorhynchus griseus,12.64285785,1.627365857,113,0,7.66,25.84607792,12.2386113,1691.245156,249.2857723,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Campylorhynchus gularis,14.57793904,1.478566496,47,0,22.42,20.00818182,24.41502545,883.4840909,203.7590909,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Campylorhynchus jocosus,13.60935368,1.440909082,14,0,17.57,20.8253125,20.7395,1247.588438,258.4905694,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Campylorhynchus megalopterus,16.24425606,1.519827994,21,0,19.03,19.45289167,21.50597083,1102.493,223.9981179,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Campylorhynchus rufinucha,10.53790072,1.491361694,46,0,15.01,24.06008507,16.65625224,1671.125478,311.5519992,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,open,resident,strong
+Campylorhynchus yucatanicus,12.93566226,1.550228353,5,0.4,21,25.91558333,16.71261667,928.0813333,148.3773767,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Campylorhynchus zonatus,12.56684105,1.539076099,85,0,12.25,23.94012034,14.13870788,2022.753102,293.3652991,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cantorchilus leucopogon,11.55063686,1.281260687,30,0,4.52,24.06373721,10.10696093,3206.477512,314.9547844,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Cantorchilus leucotis,12.18263375,1.288696261,771,0,-4.02,25.41143636,13.77250814,2079.51805,266.6136228,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Cantorchilus modestus,8.818633999,1.244771761,50,0.02,12.72,24.474164,14.11007253,2252.874,350.1315088,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Cantorchilus nigricapillus,9.836081509,1.378397901,55,0,6.43,23.8058037,10.6609842,2875.957111,314.2792031,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cantorchilus semibadius,8.699553135,1.230448921,4,0,8.73,23.72136667,13.168,3119.61,492.5383167,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Cantorchilus thoracicus,10.56901142,1.245512668,22,0,11.01,24.91797857,11.55607714,2902.000357,378.4644193,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Cantorchilus zeledoni,8.818633999,1.244771761,50,0.02,12.72,24.474164,14.11007253,2252.874,350.1315088,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Capsiempis flaveola,12.81787675,0.886490725,584,0.001712329,-4.86,24.4083616,13.89142499,1925.14701,240.7324146,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cardellina canadensis,27.00868185,1.001733713,760,0.001315789,48.76,2.721131683,43.95809741,803.7836207,57.26564849,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Cardellina pusilla,20.26680325,0.84260924,1700,0.006470588,54.77,-0.892736266,41.48681411,694.5020154,67.5197639,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Cardellina rubra,16.40828822,0.908485019,44,0,20.02,20.51811429,21.724475,1077.638679,238.3146523,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Cardellina rubrifrons,21.74558538,0.908485019,57,0,29.61,15.9128309,33.00844328,516.8321045,114.3315096,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Cardellina versicolor,16.98315013,1,14,0,15.65,22.83121667,16.38489444,2045.917778,340.4031083,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cardinalis cardinalis,15.27537134,1.629817196,613,0.032626427,33.55,15.32159879,33.3870846,889.0939079,90.49819206,Nearctic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Cardinalis sinuatus,14.81653222,1.546419267,166,0.012048193,27.95,18.89887108,30.61509567,484.8525165,94.31046212,Nearctic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Carpodacus erythrinus,32.18313177,1.379668034,2208,0.001358696,50.93,0.425274721,43.86487754,512.8742384,72.43074935,Palearctic,Herbivore,Granivore,Generalist,semi-open,directional migratory,weak
+Carpodectes antoniae,20.48113697,1.991226076,3,0,8.73,23.72136667,13.168,3119.61,492.5383167,Neotropic,Herbivore,Frugivore,Generalist,semi-open,resident,none
+Carpodectes hopkei,17.23187261,2.008600172,18,0,3.69,23.68061923,9.948042692,3776.500385,318.7191923,Neotropic,Herbivore,Frugivore,Generalist,dense,resident,none
+Carpodectes nitidus,19.03367683,2.006893708,23,0.043478261,12.96,24.89325556,12.16002667,2702.752222,338.9472074,Neotropic,Herbivore,Frugivore,Generalist,semi-open,resident,none
+Caryothraustes canadensis,15.66479603,1.537819095,293,0,-1.92,25.72091859,11.87169822,2143.319274,271.035257,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Caryothraustes celaeno,14.01781182,1.77815125,20,0,22.64,21.41657778,22.97711852,938.7261852,168.7089556,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Caryothraustes poliogaster,15.02627136,1.621176282,55,0.018181818,14.83,24.37390685,14.36826877,2263.460041,315.0047019,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Cassiculus melanicterus,24.54593385,1.910304168,44,0,19.77,23.21755238,20.91492222,1150.741889,265.2211763,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Catharopeza bishopi,21.79741801,1.178976947,1,1,13.35,25.0333,10.15,2314.33,197.6663,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Catharus aurantiirostris,16.43949401,1.474216264,143,0.006993007,15.48,21.84219171,17.9786611,1457.28989,240.9726767,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,dispersive migratory,weak
+Catharus bicknelli,28.5987121,1.443888547,36,0,NA,3.134646807,41.72460701,706.7535141,63.49725612,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Catharus dryas,22.56587025,1.57634135,125,0,-2.1,20.58985163,15.25718974,1690.329314,212.2333003,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Catharus frantzii,17.76631416,1.460897843,63,0,16.23,22.28930244,17.93880122,1618.053037,287.1573639,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Catharus fuscater,15.9500707,1.527629901,92,0,-1.99,19.51743153,14.36465009,1831.989207,218.4033158,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,strong
+Catharus fuscescens,27.74377649,1.503790683,1600,0.015625,46.48,4.421894338,40.63414695,753.5162949,53.61219518,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Catharus gracilirostris,16.02712877,1.322219295,6,0,9.4,23.4003375,12.1806625,3171.26625,395.1764375,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Catharus guttatus,26.51338971,1.478566496,952,0.005252101,50.12,2.403015345,40.61736298,703.4459865,64.07338587,Nearctic,Omnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Catharus mexicanus,21.15172812,1.51851394,46,0,16.16,22.83579123,16.74809123,1921.591474,288.6041086,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,strong
+Catharus minimus,30.39605546,1.499412126,539,0.009276438,59.77,-5.083981561,44.23224015,560.3470843,52.17588481,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,directional migratory,weak
+Catharus occidentalis,21.56534366,1.418301291,75,0,21.85,19.91965914,23.98273118,926.901,206.2430637,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Catharus swainsoni,31.65355361,1.481442629,855,0.002339181,52.5,0.481437943,42.10293276,701.3686949,66.14183244,Nearctic,Omnivore,Invertivore,Generalist,dense,directional migratory,none
+Catherpes mexicanus,13.16413223,1.07809415,434,0.013824885,34.17,13.4919118,33.86305329,505.4099709,82.61790765,Nearctic,Carnivore,Invertivore,Invertivore bark,open,resident,strong
+Cephalopterus glabricollis,15.18128949,2.579177447,9,0,9.78,24.08523636,12.17748182,2837.429091,365.5879136,Neotropic,Omnivore,Frugivore,Generalist,dense,resident,none
+Ceratopipra erythrocephala,20.1407385,1.128076013,344,0.002906977,2.36,25.61662112,11.48877767,2402.258011,251.2598799,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Ceratopipra mentalis,17.09874484,1.176091259,91,0.054945055,11.84,24.4772504,13.27660368,2473.906664,306.7932755,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Cercomacra nigricans,10.11598558,1.219060332,95,0.010526316,6.34,24.49313309,11.58532835,2022.241381,257.1068347,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cercomacroides tyrannina,9.288767818,1.212187604,355,0.005633803,4.27,25.39200699,11.86154575,2364.808732,291.5831904,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Certhia americana,24.09652218,0.908485019,786,0.002544529,43.8,6.453943388,36.70213397,832.8127057,87.7473998,Nearctic,Carnivore,Invertivore,Invertivore bark,dense,directional migratory,weak
+Chamaea fasciata,11.86600506,1.168202747,39,0.051282051,37.53,13.05404717,27.787345,790.63005,137.0604217,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Chiroxiphia lanceolata,11.14310466,1.267171728,62,0.016129032,9.55,26.0535957,12.10445763,1526.57843,236.5900866,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Chiroxiphia linearis,9.622327214,1.241546481,23,0,12.83,24.43029677,14.83837742,2000.895806,350.9988473,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Chlorophanes spiza,25.64852617,1.278753601,802,0.003740648,-3.36,24.78360979,13.53482937,2164.116794,259.3814603,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Chlorophonia callophrys,25.08378995,1.411619706,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Chlorophonia occipitalis,26.50755917,1.411619706,36,0,15.85,22.96011875,16.46049375,1828.016813,301.4146425,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Chlorospingus canigularis,20.47205849,1.255272505,69,0,-1.34,20.2125618,13.02691472,2125.937169,203.9826528,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Chlorospingus flavigularis,17.45500318,1.408239965,68,0,-2.98,19.81138902,13.28217171,2129.062866,211.5164699,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Chlorospingus flavopectus,16.18688217,1.300595484,166,0,2.13,20.62368775,15.97697451,1718.839843,227.1906722,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Chlorospingus inornatus,15.18861858,1.447158031,2,0,7.58,25.31545,9.971545,2980.2425,439.3204,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Chlorospingus pileatus,14.50893091,1.322219295,6,0,9.4,23.4003375,12.1806625,3171.26625,395.1764375,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Chlorospingus tacarcunae,16.24619225,1.276461804,3,0,8.86,25.84978333,9.399123333,2274.611667,340.892915,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Chondestes grammacus,28.84790552,1.462397998,593,0.003372681,38.32,11.25033219,38.04628208,611.6026694,66.03353861,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Chrysocorypha delatrii,15.58998016,1.255272505,48,0,9.04,24.3685947,12.16303682,2482.179621,312.603271,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Chrysomus icterocephalus,17.5627141,1.486855355,233,0.004291845,3.59,25.81746032,11.62597552,2115.290561,252.6317389,Neotropic,Omnivore,Granivore,Granivore arboreal,semi-open,resident,none
+Chrysothlypis chrysomelas,21.20883257,1.113943352,15,0,9.27,24.81472353,10.61014941,2682.448824,351.7640288,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Cinclocerthia gutturalis,15.97453038,1.840106094,5,1,14.29,25.254575,9.8745825,2052.375,202.104175,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cinclocerthia ruficauda,18.80072311,1.740204736,9,1,14.8,25.47369167,9.921796667,1865.44,170.6354333,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cinclus mexicanus,26.52097699,1.753429842,558,0.012544803,47.61,4.586505358,35.17845155,745.3896918,97.73453696,Nearctic,Carnivore,Aquatic predator,Generalist,open,resident,weak
+Cistothorus palustris,19.98367135,1.033423755,656,0.00152439,43.36,7.516082999,39.21336345,693.7428486,66.96699947,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,open,directional migratory,weak
+Cistothorus stellaris,13.35736469,0.95616843,782,0,-4.43,13.71587707,27.14252857,1028.032782,117.2233575,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,open,directional migratory,weak
+Clibanornis rubiginosus,10.23593751,1.599883072,302,0,1.94,24.15378792,12.90086509,2296.174391,263.0000986,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cnipodectes subbrunneus,14.9031873,1.365487985,212,0,-2.59,25.58524552,11.61784136,2600.410258,214.4724499,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,none
+Coereba flaveola,19.30227702,1.000434077,1084,0.055350554,-4.63,24.36323787,14.6270517,1781.696315,236.2894808,Neotropic,Herbivore,Nectarivore,Nectarivore glean,semi-open,resident,weak
+Colonia colonus,20.01783832,1.26245109,663,0,-9.74,23.71089316,15.6612933,1826.615338,244.0294966,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Conirostrum leucogenys,22.1474359,0.84509804,47,0,8.3,24.12338814,11.8572,1776.936339,225.8932442,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Conopias albovittatus,21.65246788,1.387389826,41,0,8.03,24.6292069,10.58007793,3184.826034,333.419674,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Contopus caribaeus,23.91598471,1.021189299,29,0.586206897,21.27,25.03228429,14.50989571,1300.174214,163.04131,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,resident,weak
+Contopus cinereus,22.1496759,1.064457989,596,0.011744966,-6.87,23.44985041,15.78871383,1565.91851,223.925628,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Contopus cooperi,37.84019385,1.506505032,1009,0.024777007,50.77,2.222669629,40.01821195,691.6576622,64.57504588,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,strong
+Contopus hispaniolensis,24.22191001,1.068185862,9,0,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,resident,weak
+Contopus latirostris,19.30631966,1.049218023,4,1,15.04,25.17093333,10.13168833,1982.1,186.7603333,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Contopus lugubris,28.20245801,1.33243846,5,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Contopus ochraceus,24.96830118,1.361727836,3,0,9.34,23.05124,11.97692,3295.072,392.1224,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Contopus pallidus,22.78244401,0.968482949,5,1,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Contopus pertinax,28.2996915,1.434568904,136,0,21.9,20.20565471,23.77691529,1053.858882,205.1615184,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Contopus sordidulus,33.44738242,1.117271296,696,0.011494253,42.41,8.090051931,36.36677712,654.9301886,93.40082952,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Contopus virens,30.91516786,1.1430148,408,0,40.12,10.55961481,38.02806412,1007.983982,65.89981299,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Corapipo leucorrhoa,18.79688445,1.071882007,40,0,9.76,24.80843846,11.55998231,3010.864808,360.2435992,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Corvus brachyrhynchos,35.21660781,2.652014139,1210,0.001652893,44.87,6.355570847,40.24815603,763.28778,65.54266156,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,none
+Corvus caurinus,37.85588284,2.591943442,73,0,55.3,3.371588777,24.79880982,1585.500179,159.6773938,Nearctic,Omnivore,Omnivore,NA,open,resident,none
+Corvus corax,33.33172662,2.967533936,5089,0.016899194,51.36,1.438409727,40.94683438,505.8881849,61.76785084,Palearctic,Omnivore,Omnivore,NA,open,dispersive migratory,weak
+Corvus cryptoleucus,39.74640325,2.727166984,148,0,30.24,17.36636714,33.84729153,468.0579947,77.29770188,Nearctic,Carnivore,Omnivore,NA,open,dispersive migratory,weak
+Corvus imparatus,34.73148728,2.344392274,19,0,24.02,22.82542609,24.34728261,847.4468261,157.9114565,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,none
+Corvus jamaicensis,28.09491686,2.5289167,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Corvus leucognaphalus,34.76923852,2.700582582,15,0.4,18.7,24.825325,14.030755,1389.1693,155.099705,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Corvus nasicus,35.50312121,2.603144373,19,0.368421053,21.55,25.28638182,15.13801818,1225.719758,163.5975,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,none
+Corvus ossifragus,35.96672074,2.454234896,147,0.006802721,34.42,15.97333281,32.06126583,1249.483492,76.97210804,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,none
+Corvus palmarum,34.15823425,2.460897843,12,0.083333333,19.67,24.95107857,14.50511786,1374.200929,160.4635393,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Corvus sinaloae,35.73309026,2.387389826,20,0,24.57,21.2449,24.99559231,853.4775385,217.5526178,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,none
+Cotinga amabilis,24.03013464,1.854245297,48,0.020833333,15.39,24.00095397,14.99314794,2129.178365,302.5447641,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Cotinga nattererii,24.78562983,1.80706124,34,0,5.73,24.383638,10.2597944,3132.681,309.0485238,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Cotinga ridgwayi,25.30816212,1.757244151,4,0,9.11,23.7516125,12.8181625,3163.965,453.8037375,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Cranioleuca dissita,13.88644063,1.218535505,1,1,7.58,25.95455,13.75,3236.84,569.6818,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cranioleuca erythrops,16.64928318,1.227886705,32,0,4.54,21.91982857,11.29525595,2794.817857,292.2512202,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cryptopipo holochlora,19.63759214,1.173186268,80,0,-2.37,22.30244128,12.44166569,2526.808862,215.6100929,Neotropic,Omnivore,Frugivore,Fugivore aerial,dense,resident,none
+Cyanecula svecica,20.30171239,1.236285277,2313,0.001729356,47.97,4.581891041,41.53026984,446.9932813,66.56995019,Palearctic,Carnivore,Invertivore,Invertivore ground,semi-open,directional migratory,weak
+Cyanerpes caeruleus,30.27527476,1.079181246,645,0.001550388,-2.3,25.40227819,12.93355892,2260.444348,264.2144026,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Cyanerpes cyaneus,27.05378307,1.146128036,818,0.006112469,-1.64,25.37795578,13.69985774,2094.47848,264.72794,Neotropic,Omnivore,Omnivore,NA,dense,directional migratory,none
+Cyanerpes lucidus,24.33292086,1.056904851,46,0.043478261,12.09,24.63572656,12.53240531,2559.730938,352.8163931,Neotropic,Herbivore,Omnivore,NA,dense,resident,none
+Cyanocitta cristata,16.85516594,1.944482672,693,0.001443001,42.51,8.484563506,39.53384661,888.4930667,66.01436279,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Cyanocitta stelleri,14.21874135,2.10720997,374,0,37.5,10.67562104,32.0303303,765.1239616,112.9240688,Nearctic,Omnivore,Omnivore,NA,dense,resident,weak
+Cyanocompsa parellina,13.68631525,1.194236749,94,0.042553191,18.77,23.70662045,18.24871818,1369.679689,247.6832038,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Cyanocorax affinis,9.299324575,2.326335861,63,0.015873016,8.57,24.78168854,11.30562583,2214.364573,262.8157357,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,strong
+Cyanocorax beecheii,13.08621889,2.285557309,16,0,24.94,21.135188,25.474068,844.98012,216.4525234,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Cyanocorax colliei,17.7355877,2.369215857,25,0,23.96,21.17987895,25.05034474,852.5091053,216.3817212,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Cyanocorax dickeyi,7.617866146,2.257678575,9,0,23.8,18.661475,23.6368,893.1344167,216.4749517,Nearctic,Herbivore,Omnivore,NA,dense,resident,weak
+Cyanocorax formosus,18.89302292,2.322219295,53,0,15.34,23.85190658,17.04156974,1630.345947,309.7901689,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Cyanocorax melanocyaneus,13.06759886,2.004321374,22,0,14.48,23.41546296,15.15282222,1829.985556,293.787743,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Cyanocorax morio,11.45594222,2.309630167,96,0.052083333,17.4,24.00181085,16.95531488,1782.345248,262.1683004,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Cyanocorax sanblasianus,12.28101308,2.037426498,14,0,18.87,24.26001579,19.22890526,1106.479526,275.0906363,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Cyanocorax yncas,8.067307098,1.894869657,115,0,8.57,22.35810011,16.22032179,1631.729967,212.6110198,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Cyanocorax yucatanicus,9.33383642,2.071882007,25,0.16,19.11,25.6851303,16.39850303,1405.761152,205.0391564,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Cyanoloxia cyanoides,13.98577558,1.511883361,738,0.002710027,-0.85,25.26314736,13.16659198,2241.15805,269.2975292,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,resident,weak
+Cyanolyca argentigula,8.958132707,2.301029996,3,0,9.34,23.05124,11.97692,3295.072,392.1224,Neotropic,Carnivore,Omnivore,NA,dense,resident,weak
+Cyanolyca cucullata,7.072074142,2.005738043,35,0,15.84,21.93948333,16.72715952,1981.904095,297.8051112,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Cyanolyca mirabilis,10.31671878,1.719331287,13,0,16.88,24.0618375,18.7577875,1156.90925,268.9303588,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Cyanolyca nanus,13.42598701,1.612783857,8,0,18.79,20.49532727,19.87301818,1368.161545,258.4070209,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Cyanolyca pumilo,10.38033638,1.672097858,26,0,15.41,22.94823704,16.18522593,1929.343704,307.7004193,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Cyclarhis gujanensis,17.9329428,1.459392488,1240,0.00483871,-8.45,23.86759058,16.10949324,1679.319536,225.5727713,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Cymbilaimus lineatus,10.08684211,1.553883027,633,0,-2.86,25.28476421,13.250686,2325.12254,269.7457997,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Cyphorhinus phaeocephalus,10.56462347,1.390935107,58,0,6.86,24.24119753,10.78454963,2863.159926,318.1714733,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Dacnis cayana,24.41083454,1.113943352,1082,0.001848429,-6.39,24.67871396,14.3756598,1923.76724,244.2706984,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Dacnis venusta,26.28340942,1.206825876,38,0.026315789,6.34,24.24768814,10.6319139,3131.108475,335.7937058,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Dacnis viguieri,22.74376354,1.105510185,11,0,7.66,24.95274,10.47503733,2823.314667,325.26876,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Deconychura longicauda,20.6033989,1.376576957,501,0,-3.57,25.47725609,12.93366677,2311.779865,269.155661,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Deltarhynchus flammulatus,16.80798757,1.235528447,21,0,18.94,24.35559655,18.66643448,1132.062759,276.5376579,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,strong
+Dendrocincla anabatina,20.07219478,1.534153074,59,0.06779661,15.91,24.701315,14.905379,2090.869288,303.8501709,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Dendrocincla fuliginosa,18.33088138,1.587710965,777,0.001287001,-2.6,25.36332218,13.39457308,2178.984645,266.7517595,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Dendrocincla homochroa,17.6897425,1.595826777,90,0.066666667,13.54,24.48415078,13.97258445,2069.734672,300.5827838,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Dendrocolaptes picumnus,17.02511495,1.88422877,594,0,-3.7,24.90264704,13.65432049,2123.250816,236.3781623,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Dendrocolaptes sanctithomae,20.57919013,1.825426118,118,0.033898305,NA,25.1820797,13.36135627,2254.136911,270.5181003,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Dendroplex picus,17.79866851,1.616370472,879,0.001137656,-4.26,25.32501939,13.8152467,1966.65955,251.5296723,Neotropic,Carnivore,Invertivore,Invertivore bark,semi-open,resident,strong
+Diglossa baritula,19.69363063,0.963787827,54,0,17.11,21.67911159,18.99868841,1435.043087,269.3390051,Neotropic,Herbivore,Nectarivore,Nectarivore glean,semi-open,resident,strong
+Diglossa plumbea,17.10285185,1,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Omnivore,Nectarivore,Nectarivore glean,semi-open,resident,strong
+Dives dives,12.40650122,1.960565903,78,0.051282051,16.89,24.12651905,16.32468095,1717.4176,271.5294024,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Dolichonyx oryzivorus,35.3903016,1.497758718,459,0,45.55,5.37624292,41.48277157,734.3436405,56.79749968,Nearctic,Omnivore,Granivore,Granivore ground,dense,directional migratory,weak
+Donacobius atricapilla,9.633473768,1.565847819,830,0.001204819,-7.46,24.72646263,14.72657229,1905.827181,242.0688441,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,open,resident,strong
+Dulus dominicus,20.49918401,1.684845362,9,0,18.7,24.825325,14.030755,1389.1693,155.099705,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,strong
+Dumetella carolinensis,18.65310132,1.547774705,695,0.001438849,42.35,8.291548062,39.46416433,811.663117,59.96957036,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,strong
+Dysithamnus mentalis,11.69615702,1.172310969,555,0.001801802,-8.52,23.42400659,15.39665613,1757.42207,233.4672936,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Dysithamnus puncticeps,13.72955541,1.173186268,29,0,5.18,23.69809556,9.992162667,3263.380222,318.4289887,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Dysithamnus striaticeps,16.6695549,1.079181246,19,0,12.62,24.858225,11.91212583,2777.50875,350.3133292,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Elaenia chiriquensis,20.78715505,1.187520721,709,0.002820874,-6.32,24.40652003,14.68805192,1819.031245,251.524773,Neotropic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Elaenia fallax,17.77384876,1.158362492,11,0.454545455,18.46,24.18990833,13.69903333,1545.049167,186.0142833,Neotropic,Omnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Elaenia flavogaster,14.91126078,1.394451681,988,0.009109312,-5.87,24.34978815,15.00842815,1748.407042,241.0252963,Neotropic,Omnivore,Invertivore,Generalist,open,resident,strong
+Elaenia frantzii,19.32247509,1.292256071,72,0,8.75,22.84843469,12.64668827,2095.032214,259.5017803,Neotropic,Herbivore,Frugivore,Fugivore glean,open,resident,weak
+Elaenia martinica,19.2720076,1.317854489,35,0.857142857,16.86,25.90302391,11.58691239,1337.602174,150.7318572,Neotropic,Omnivore,Invertivore,Generalist,semi-open,resident,weak
+Emberizoides herbicola,10.74073461,1.440121603,517,0,-13.1,23.55572386,16.66057442,1613.679023,223.1094508,Neotropic,Omnivore,Granivore,Granivore ground,open,resident,weak
+Empidonax affinis,21.67048055,1.053078443,85,0,21.12,19.85596111,23.23944167,1018.223463,209.6085524,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,weak
+Empidonax albigularis,23.16145223,0.981365509,99,0,19.32,20.59279907,21.202375,1322.595667,249.2790008,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Empidonax alnorum,20.31942093,1.103803721,720,0,53.21,0.016720213,43.87264091,722.8714091,59.50045998,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Empidonax atriceps,22.55823986,0.954242509,4,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Empidonax difficilis,21.7872374,1.029383778,125,0.032,47.53,6.824791334,27.73677877,1186.595575,141.4495457,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Empidonax flavescens,20.51867008,1.096910013,36,0,13.92,23.56094583,15.09599583,2113.335,319.78537,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,strong
+Empidonax flaviventris,24.10703597,1.071882007,545,0,52.22,0.084062532,44.82593888,703.0888445,56.88201737,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Empidonax fulvifrons,19.0102189,0.897627091,127,0,21.56,19.48449316,23.94556923,1037.548171,208.1712178,Nearctic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Empidonax hammondii,23.14488742,1.018700499,311,0,50.38,2.355257556,38.47664358,622.5989975,68.12328466,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Empidonax minimus,22.81592337,1,601,0,49.98,2.383691197,43.43218439,687.7171192,57.81007285,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,strong
+Empidonax oberholseri,18.70949329,1.017033339,289,0.01384083,43.85,6.569209219,36.74883665,527.9749416,60.34079626,Nearctic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Empidonax occidentalis,20.6125325,1.064457989,316,0,35.61,11.16955622,34.26399894,551.402918,87.2613832,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Empidonax traillii,23.53870386,1.126780577,689,0.005805515,41.69,8.94810169,37.79784776,741.5815024,67.19816754,Nearctic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,strong
+Empidonax virescens,28.02349247,1.100370545,297,0,36.49,13.91794112,35.47785203,1087.956645,70.87584871,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Empidonax wrightii,21.26616795,1.089905111,137,0,39.89,7.968610431,38.61412586,402.1691937,44.17291218,Nearctic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,none
+Epinecrophylla fulviventris,11.79850473,1.017033339,54,0,7.33,24.43752,10.74216293,3001.335067,327.4475403,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Eremophila alpestris,39.01121291,1.522835314,3273,0.009471433,49.42,1.362886751,42.11137927,462.6049038,58.19882966,Palearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Euchrepomis callinota,12.1237646,0.84509804,36,0,1.64,21.10246792,11.70191981,2379.682774,245.1702081,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Eucometis penicillata,18.06174454,1.431363764,626,0.00798722,-3.91,25.20894151,14.05581348,2036.504118,255.9997018,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Euneornis campestris,21.46728908,1.204119983,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Herbivore,Nectarivore,Nectarivore glean,semi-open,resident,weak
+Euphagus carolinus,28.16764035,1.7750276,1009,0.00099108,56.33,-2.225915644,44.31063343,649.9043525,58.76869201,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Euphagus cyanocephalus,31.20695373,1.795741021,681,0.005873715,45.9,5.57913162,40.12661111,567.8899782,65.3533707,Nearctic,Carnivore,Omnivore,NA,open,directional migratory,weak
+Euphonia affinis,26.08385184,1,108,0.037037037,18.31,23.61941111,18.25802745,1458.260144,262.3289918,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia anneae,20.15874012,1.173186268,17,0,9.2,24.87802778,10.57578944,2664.081111,344.7215661,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia elegantissima,32.15245823,1.176091259,96,0,18.81,21.55447557,20.3219855,1358.32226,254.1645159,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia fulvicrissa,20.19966063,1.041392685,39,0,5.51,23.75136111,10.33817259,3031.162167,303.7608109,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia gouldi,22.24763833,1.146128036,53,0.018867925,14.85,24.34942609,14.30229159,2292.301783,316.1052614,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia hirundinacea,24.34675141,1.146128036,4,0,15.59,24.55052857,16.27522857,1289.070429,248.1689957,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia imitans,20.47530056,1.146128036,4,0,8.73,23.72136667,13.168,3119.61,492.5383167,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia jamaica,25.58826717,1.220108088,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia laniirostris,23.19368845,1.176091259,438,0.002283105,-4.1,24.79511026,13.78821215,2052.2266,238.4171242,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia luteicapilla,26.45006614,1.113943352,22,0.045454545,9.7,25.26749429,11.32028257,2821.815143,393.3289954,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia minuta,19.85382353,1,507,0.001972387,-1.42,25.12478254,12.72113013,2399.319749,258.6717166,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Euphonia musica,23.14834866,1.16613397,24,0.625,17.41,25.12942286,12.59753143,1545.623029,157.5133314,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Euphonia xanthogaster,23.82976054,1.113943352,408,0,-4.43,24.29683825,13.32207935,2278.268827,234.9731099,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Ferminia cerverai,7.692307692,1.414973348,1,0,22.49,25.0423,16.59635,1285.12,187.8878,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Fluvicola pica,15.35083663,1.089905111,184,0.005434783,6.65,25.50934824,11.91676114,2075.196525,271.7738534,Neotropic,Carnivore,Invertivore,Generalist,open,resident,weak
+Formicarius analis,16.66199698,1.793720557,572,0.001748252,-1.16,25.18346496,13.38829022,2227.136928,266.8982791,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Formicarius nigricapillus,12.53685171,1.749736316,30,0,4.05,23.2706619,10.46299905,3070.407071,297.4716379,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Formicarius rufipectus,12.76119391,1.871572936,66,0,-1.79,19.56708125,13.5358935,2088.333588,208.5352353,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Formicivora grisea,8.152750142,1.015359755,371,0,-3.48,25.34877919,13.97882358,1885.686413,268.3956161,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Fringilla montifringilla,33.32450466,1.365300749,1355,0.005166052,59.95,-4.331950026,48.78166739,485.6950308,57.76905591,Palearctic,Herbivore,Omnivore,NA,dense,directional migratory,weak
+Geothlypis beldingi,16.39753956,1.195899652,9,0.222222222,25.39,21.95304375,25.23785625,169.801875,45.4578565,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Geothlypis flavovelata,17.62727273,1.037426498,10,0,22.09,22.63003333,21.27994667,1104.751533,202.5471867,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Geothlypis formosa,24.94534509,1.146128036,324,0.012345679,36.55,13.91369705,35.36201476,1169.769989,67.76821624,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Geothlypis nelsoni,10.97944838,1.041392685,30,0,20.25,20.29666389,22.296125,1010.231278,196.1210592,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Geothlypis philadelphia,25.33585918,1.069668097,719,0.001390821,49.25,2.615588707,43.09420953,799.4238381,56.84109778,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Geothlypis poliocephala,8.989347103,1.164352856,119,0.042016807,17.06,24.17742281,16.8739814,1678.647421,282.3454525,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Geothlypis rostrata,14.0119662,1.206825876,12,1,25.33,24.80517857,14.49542143,1162.424214,149.9990857,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Geothlypis semiflava,13.90166414,1.235528447,42,0,5.96,23.4535623,11.15336967,2765.312295,298.5576445,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Geothlypis speciosa,13.2456472,1.033423755,7,0,19.57,18.02324444,23.20093333,904.9058889,191.3795556,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Geothlypis tolmiei,22.93424273,1.017033339,571,0.010507881,46.08,5.52760549,35.41720194,723.6498568,81.61965048,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Geothlypis trichas,16.06630498,0.979548375,1282,0.003120125,43.81,7.222728002,38.75586033,785.5204079,73.69253457,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Glyphorynchus spirurus,23.91554665,1.164352856,708,0.001412429,-1.92,25.1417066,13.10539182,2287.659563,269.3980572,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Grallaria guatimalensis,17.78513638,1.974050903,214,0.004672897,5.27,22.34400702,14.94501133,1962.225607,253.4783696,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Grallaricula flavirostris,17.35011099,1.247973266,73,0,-4.89,19.70976395,14.44871721,2181.711988,213.7890005,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Granatellus sallaei,13.90225173,0.995635195,44,0.090909091,18.3,24.544325,16.52772679,1642.417768,251.6501993,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Granatellus venustus,12.21874121,1.033423755,34,0.029411765,19.13,23.35311538,19.68188654,1169.469231,264.993739,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Gymnocichla nudiceps,8.551315789,1.484299839,64,0.015625,10.02,24.95381868,11.5621278,2737.79411,326.2715666,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Gymnopithys bicolor,9.915372985,1.434568904,198,0.005050505,7.61,24.1568051,11.2451698,2804.585102,321.2091945,Neotropic,Carnivore,Invertivore,Invertivore sally ground,dense,resident,none
+Gymnorhinus cyanocephalus,26.42341115,2.020444155,177,0,39.39,8.905251951,39.23861148,380.1036627,46.11315376,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Habia atrimaxillaris,15.51038961,1.689308859,1,0,8.73,25.1292,14.0583,3708.63,590.75,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Habia carmioli,17.43577733,1.591064607,24,0,-1.45,22.15448316,13.80990747,2273.944456,270.0898895,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Habia fuscicauda,12.9794126,1.566319622,97,0.051546392,15.5,24.57030677,14.99938992,1905.96509,282.2851263,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Habia olivacea,18.30889883,1.591064607,22,0,4.9,24.31301935,10.09854452,3707.210645,319.9626065,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Habia rubica,19.21352057,1.511348515,630,0.00952381,-5.28,24.10039695,14.94976286,1980.921168,227.908221,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Haemorhous cassinii,28.77408589,1.423245874,200,0.005,43.01,6.247455294,37.77892692,488.0903077,48.44717448,Nearctic,Herbivore,Granivore,Generalist,semi-open,directional migratory,weak
+Haemorhous mexicanus,27.47182082,1.330413773,491,0.044806517,36.08,12.95656922,34.41916718,772.5028105,80.92706469,Nearctic,Herbivore,Granivore,Generalist,semi-open,directional migratory,weak
+Haemorhous purpureus,29.07599332,1.367355921,575,0.006956522,49.36,3.210644523,40.07314175,834.4657997,72.25361158,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Hafferia zeledoni,5.749846913,1.673020907,60,0,5.01,22.5218557,11.25661013,2468.650633,259.6560559,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Helmitheros vermivorum,26.2566278,1.151063253,285,0,36.62,13.77937485,35.15993682,1193.882389,62.60522176,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Hemithraupis flavicollis,20.9270523,1.10720997,545,0,-4.67,25.07614755,13.37581655,2256.414822,253.8728151,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Henicorhina leucophrys,8.626658382,1.209246849,192,0,4.91,21.10151887,15.15901216,1844.677242,242.037411,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Henicorhina leucosticta,9.962624894,1.151676231,303,0.00330033,5.21,24.99664587,12.44178527,2515.557337,272.0991256,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Herpsilochmus rufimarginatus,7.309244086,1.024485668,508,0,-9.12,23.5130494,15.19945064,1772.895157,233.8340102,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Hesperiphona abeillei,32.91509178,1.685741739,64,0,21.01,20.15592817,22.49532254,1183.138268,240.9607646,Neotropic,Herbivore,Omnivore,NA,dense,resident,weak
+Hesperiphona vespertina,34.20789469,1.758154622,501,0,45.48,5.08495766,38.81063298,753.5521979,74.22346129,Nearctic,Herbivore,Omnivore,NA,dense,directional migratory,weak
+Heterospingus rubrifrons,25.26219478,1.579783597,10,0,9.29,25.00297333,10.043376,2782.940667,339.0214993,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,weak
+Heterospingus xanthopygius,19.60098164,1.588831726,28,0,4.26,23.451465,10.256432,3278.70075,301.7212283,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Hirundo rustica,51.1705325,1.253095586,4786,0.021938989,45.01,6.187457175,39.13883693,618.7415854,77.7818177,Palearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Hylocichla mustelina,26.83527058,1.699751032,348,0,40.2,10.2933806,37.62865158,1066.2692,63.10024139,Nearctic,Omnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Hylopezus dives,7.203606784,1.643452676,38,0,8.31,24.47528571,10.82820918,3381.965918,336.8705082,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Hylopezus perspicillatus,15.27700625,1.633468456,52,0,7.61,23.6959863,11.23473699,3025.591192,323.9385199,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Hylophilus flavipes,13.54676294,1.06669855,110,0.018181818,8.13,25.37806923,12.16005987,1733.283423,250.3308809,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Hylophylax naevioides,13.58706166,1.250420002,64,0.015625,7.7,24.03431364,11.0143775,2861.60708,317.0318118,Neotropic,Carnivore,Invertivore,Invertivore sally ground,dense,resident,strong
+Hylorchilus navai,9.90971813,1.45331834,3,0,17.67,22.2096,18.7815625,1643.2705,288.2355,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,strong
+Hylorchilus sumichrasti,9.90971813,1.45331834,3,0,17.67,22.2096,18.7815625,1643.2705,288.2355,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,strong
+Icteria virens,21.27653453,1.396024897,905,0.008839779,38.08,11.67032505,36.70511239,713.8795294,69.283532,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Icterus abeillei,25.48305016,1.51851394,51,0,NA,NA,NA,NA,NA,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Icterus auratus,19.69961313,1.506505032,17,0.235294118,19.81,25.87061364,16.70749545,1147.256273,172.25038,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus auricapillus,21.39284821,1.507855872,73,0,8.23,24.75437526,11.95930753,1792.808691,250.2869038,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus bonana,15.78673352,1.462397998,3,1,14.52,25.254575,9.8745825,2052.375,202.104175,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Icterus bullockiorum,26.24683467,1.57863921,386,0.015544041,NA,9.761160711,38.13824947,703.2998884,67.6232074,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,none
+Icterus chrysater,19.44451918,1.727541257,117,0.042735043,11.36,23.93667178,13.30621663,2030.513669,264.1181367,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus cucullatus,19.95351225,1.385606274,171,0.064327485,29.11,19.55682122,28.2979738,600.7016559,104.339888,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Icterus dominicensis,20.16114018,1.553154548,39,0.461538462,18.31,24.72030872,14.94284309,1704.199644,229.7679758,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus galbula,27.35522638,1.516270883,478,0,40.12,9.761160711,38.13824947,703.2998884,67.6232074,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,none
+Icterus graduacauda,18.39495346,1.625312451,53,0,20.85,22.67657385,21.58631538,1044.460538,219.5394446,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus gularis,19.18247176,1.741624258,88,0.045454545,18.58,23.96889835,18.39908099,1382.237438,239.9245506,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus laudabilis,22.19517141,1.567026366,4,1,13.87,25.3675,10.0575,1961.225,187.375,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Icterus leucopteryx,22.78644652,1.567026366,7,1,17.41,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Icterus maculialatus,17.91516688,1.572871602,17,0,15.41,23.0788,16.29415455,2002.225455,344.3308082,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus melanopsis,20.16114018,1.553154548,39,0.461538462,18.31,24.72030872,14.94284309,1704.199644,229.7679758,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus mesomelas,13.65986223,1.600972896,150,0.033333333,9.64,23.55135157,13.3566021,1985.466847,251.8343935,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Icterus northropi,20.16114018,1.553154548,39,0.461538462,18.31,24.72030872,14.94284309,1704.199644,229.7679758,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus oberi,17.91140882,1.553640336,1,1,16.48,25.2,10.25,1754.5,123,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Icterus parisorum,24.49221691,1.56205483,252,0.01984127,30.72,15.4620833,32.79102773,426.1550411,77.7578757,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,open,directional migratory,weak
+Icterus pectoralis,17.62337582,1.667452953,37,0,14.83,24.32713559,16.25302373,1610.207373,302.3681184,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Icterus portoricensis,20.16114018,1.553154548,39,0.461538462,18.31,24.72030872,14.94284309,1704.199644,229.7679758,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Icterus prosthemelas,20.72105851,1.446381812,68,0.073529412,NA,NA,NA,NA,NA,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Icterus pustulatus,18.11362893,1.565611725,79,0.012658228,19.34,21.98157364,21.18708091,1148.636073,248.6249194,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Icterus spurius,26.87028848,1.288696261,474,0,36.28,13.20765839,36.399861,875.2680562,75.10650904,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,none
+Icterus wagleri,22.69399002,1.621176282,96,0,20.47,20.34661371,22.60941774,1072.231798,220.6495063,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Islerothraupis luctuosa,18.00141587,1.113943352,693,0.001443001,-3.35,25.18904764,13.52887972,2171.849846,268.792366,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,none
+Ixoreus naevius,33.4020217,1.889301703,369,0,57.91,-1.174666903,38.27476175,741.2722885,83.79049786,Nearctic,Omnivore,Omnivore,NA,dense,directional migratory,weak
+Junco bairdi,21.24860423,1.309630167,90,0,22.73,19.14936667,25.08907417,914.2137,188.1473563,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Junco hyemalis,22.12436869,1.290034611,1141,0.003505697,51.57,1.275362829,41.71597346,672.8046487,63.04693737,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Junco insularis,19.88895227,1.341434525,2,1,28.77,16.625,12.8,115,27,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,resident,weak
+Junco phaeonotus,21.24860423,1.309630167,90,0,22.73,19.14936667,25.08907417,914.2137,188.1473563,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Junco vulcani,15.3958837,1.447158031,3,0,9.5,22.53175,11.456575,3191.6825,342.4655,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Lanio aurantius,19.15567019,1.544068044,33,0,17.15,24.14934773,16.19814545,1879.731205,285.9433357,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Lanio leucothorax,19.04669519,1.602059991,23,0,11.64,24.84519677,12.13877161,2803.525161,379.511629,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Laniocera rufescens,21.66072035,1.682145076,74,0.013513514,10.27,24.537971,11.9835014,2833.1716,328.1577006,Neotropic,Carnivore,Omnivore,NA,dense,resident,weak
+Lanius borealis,22.34152831,1.802157753,2742,0.00547046,44.4,7.791266715,40.68602683,373.8202643,63.16757551,Palearctic,Carnivore,Vertivore,Vertivore perch,open,directional migratory,weak
+Lanius ludovicianus,22.27728001,1.712565528,914,0.009846827,37.02,12.29367972,36.05568035,702.2583002,76.71293567,Nearctic,Carnivore,Invertivore,Invertivore sally ground,open,directional migratory,strong
+Lathrotriccus euleri,21.02755304,1.05422991,962,0.002079002,-11.4,23.95942195,16.12979276,1698.204577,220.7104403,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,directional migratory,weak
+Legatus leucophaius,25.44311902,1.346352974,1058,0.002835539,-5.48,24.53495486,14.55642831,1986.221227,246.5419078,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,directional migratory,none
+Leiothlypis celata,23.03731212,0.963315511,1401,0.002855103,52.92,0.530473304,41.96041657,615.4487261,67.15535129,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Leiothlypis crissalis,19.31646667,0.968482949,19,0,25.94,19.3364,28.246936,406.54528,69.4400404,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Leiothlypis luciae,23.72689575,0.819543936,88,0.011363636,33.8,15.89478423,36.64626667,285.0846756,47.41744422,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Leiothlypis peregrina,25.85291592,0.949390007,1072,0.003731343,53.66,-0.650368448,44.8942768,702.005265,61.14973139,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Leiothlypis ruficapilla,23.53549037,0.907948522,980,0.003061224,47.38,3.549061937,41.47587629,823.9003535,61.92305198,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Leiothlypis virginiae,18.92368394,0.913813852,250,0,37.54,9.615077884,39.4921913,334.8961377,36.23447,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Leistes militaris,18.76637022,1.681331706,382,0.005235602,0.53,14.87224058,29.20434493,556.6627391,50.44050101,Neotropic,Carnivore,Invertivore,Invertivore ground,open,resident,weak
+Lepidocolaptes affinis,23.04467971,1.543943942,57,0,4.45,20.49796498,15.3908907,1767.073602,231.5167725,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Lepidocolaptes leucogaster,27.81374476,1.556302501,59,0,21.27,20.54650676,23.20676486,989.9807568,230.4567392,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Lepidocolaptes souleyetii,21.09614181,1.409933123,192,0.015625,9.48,24.86324558,12.9394189,1855.625257,271.5641727,Neotropic,Carnivore,Invertivore,Invertivore bark,semi-open,resident,strong
+Lepidothrix coronata,18.39193479,0.921166051,332,0,-2.86,24.88804253,12.47022995,2551.40513,239.6845689,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Leptopogon amaurocephalus,18.65235181,1.068185862,811,0.002466091,-8.56,23.90383306,15.81390304,1776.16993,232.5292753,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Leptopogon superciliaris,19.95473741,1.068185862,137,0,-1.35,21.21974902,13.58147931,2027.862351,222.786666,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Leucopeza semperi,16.89383995,1.2955671,4,1,14.13,25.46,10.04,1927.2,192,Neotropic,Carnivore,Invertivore,Invertivore ground,NA,resident,weak
+Leucosticte atrata,37.41950959,1.402089351,26,0,43.58,3.836650861,40.37125278,404.2122222,29.813825,Nearctic,Omnivore,Omnivore,NA,open,dispersive migratory,weak
+Leucosticte australis,34.28919464,1.424881637,15,0,38.37,4.114669118,39.83016471,479.2170588,38.59803941,Nearctic,Herbivore,Granivore,Granivore ground,open,resident,weak
+Leucosticte tephrocotis,36.85577617,1.5774918,290,0.072413793,59.14,-2.228003336,37.78902428,565.1840366,61.75830287,Nearctic,Herbivore,Omnivore,NA,open,directional migratory,weak
+Limnothlypis swainsonii,24.95678425,1.276461804,194,0.030927835,33.49,16.64711156,32.48007225,1297.904029,74.62352717,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Lipaugus unirufus,20.43164618,1.914343157,79,0.012658228,10.61,24.44815,12.32472316,2696.084711,322.091011,Neotropic,Omnivore,Frugivore,Fugivore aerial,dense,resident,none
+Lochmias nematura,11.80397618,1.342422681,324,0,-17.61,21.01186407,17.81733946,1580.697831,174.4919957,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Lophotriccus pileatus,16.87549295,0.873320602,108,0,0.46,21.67487373,12.95379303,2089.706993,230.5758745,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Loxia curvirostra,34.69451921,1.583085366,3065,0.010440457,49.22,3.166234723,40.53761963,633.7673706,77.9349582,Palearctic,Herbivore,Granivore,Granivore arboreal,dense,directional migratory,none
+Loxia leucoptera,35.73758478,1.457730548,1766,0.000566251,56.81,-2.584565872,47.23953461,580.488173,61.0507795,Nearctic,Herbivore,Omnivore,NA,dense,directional migratory,none
+Loxia megaplaga,31.54256709,1.457730548,5,0,NA,24.825325,14.030755,1389.1693,155.099705,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,resident,none
+Loxigilla barbadensis,16.74090452,1.220892249,14,1,NA,NA,NA,NA,NA,Neotropic,Herbivore,Omnivore,NA,dense,resident,weak
+Loxigilla noctis,17.97636058,1.220892249,1,1,15.54,25.81116667,9.785272222,1597.858333,144.6939944,Neotropic,Herbivore,Omnivore,NA,dense,resident,weak
+Loxipasser anoxanthus,15.36787232,1.056904851,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Machetornis rixosa,18.049079,1.471291711,634,0,-14.63,22.74130568,18.04353466,1304.781235,178.381156,Neotropic,Carnivore,Invertivore,Invertivore ground,open,resident,weak
+Manacus aurantiacus,13.64839969,1.190331698,8,0.125,8.35,24.763875,12.56078333,2760.984167,430.4291333,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Manacus candei,17.16278881,1.29710365,49,0.020408163,15.18,24.28387869,14.57371344,2209.530738,305.3207438,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Manacus vitellinus,13.59054826,1.259115844,23,0,7.29,25.13467714,10.25538029,3474.010571,342.2961797,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Margarops fuscatus,19.91346089,1.993127485,35,1,19.14,25.8558325,11.1211975,1137.3342,124.2213875,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Margarornis bellulus,18.64548168,1.267171728,2,0,8.12,25.6025,9.594792,2446.898,349.793,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Margarornis rubiginosus,17.90208564,1.250420002,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Megarynchus pitangua,22.66930146,1.844539302,1202,0.005823627,-4.97,24.60587871,14.82966916,1840.679173,241.4456275,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,strong
+Melanoptila glabrirostris,15.86715587,1.549003262,20,0.2,19.32,25.79702857,16.18952143,1260.838857,184.2723557,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Melanospiza bicolor,15.62970542,0.991226076,96,0.5625,15.71,24.98635221,12.16142963,1256.298529,153.0543894,Neotropic,Herbivore,Granivore,Granivore ground,semi-open,resident,weak
+Melanospiza richardsoni,17.07692308,1.320146286,4,1,13.87,25.3675,10.0575,1961.225,187.375,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Melanotis caerulescens,13.68233499,1.789369154,65,0.015384615,21.25,21.021775,22.8525337,972.2154674,221.8742962,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Melanotis hypoleucus,11.87656429,1.832508913,21,0,15.22,22.84193077,16.37184615,1876.386538,315.1982285,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Melospiza georgiana,19.1457063,1.206825876,663,0,50.6,1.515240241,44.44192819,732.7388928,57.37094525,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Melospiza lincolnii,22.32394026,1.220108088,796,0,52.59,0.21010067,42.25704857,702.3203207,63.22139936,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Melospiza melodia,20.63416854,1.340642378,1165,0.035193133,46.97,5.035018632,39.26426016,749.6277209,68.32739959,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,strong
+Melozone aberti,12.8034284,1.662096445,30,0,33.91,16.88548167,36.32358889,282.1070833,42.54816608,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Melozone albicollis,11.9433171,1.666517981,13,0,17.33,21.06122,20.36224,1267.964333,263.6644073,Neotropic,Herbivore,Granivore,Granivore ground,semi-open,resident,strong
+Melozone biarcuata,8.576278686,1.485721426,19,0,15.01,23.43041667,15.80302083,1992.42,335.0009525,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Melozone cabanisi,9.691499677,1.447158031,3,0,NA,NA,NA,NA,NA,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Melozone crissalis,13.14122954,1.722880611,54,0.111111111,33.52,15.8819277,28.0510023,485.733769,89.55600578,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,resident,strong
+Melozone fusca,13.06816566,1.64738297,181,0.005524862,28.96,16.69128956,32.32575769,504.3903376,95.6670095,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,resident,strong
+Melozone kieneri,9.912877012,1.587710965,50,0,20.66,21.00400725,22.60338986,1008.86813,235.165943,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Melozone leucotis,8.444760769,1.600972896,10,0,13.32,23.24673529,15.00701176,2083.608235,342.6336306,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Microbates cinereiventris,11.79092619,1.075546961,104,0,-0.45,22.83914173,12.06887353,2585.061633,235.8543183,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Microcerculus marginatus,11.62119314,1.260548373,485,0,-3.98,24.93425268,13.59791497,2289.079407,259.8219911,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Microcerculus philomela,8.082863409,1.249931757,37,0.027027027,14.41,24.2208093,13.84212605,2364.635581,322.2050988,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Microligea palustris,12.75615125,1.120573931,6,0,18.86,24.03221111,15.01391111,1325.681111,159.9330778,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Microrhopias quixensis,17.72611099,0.897627091,454,0.002202643,-2.1,25.10868471,13.44112182,2317.397264,273.2988316,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Mimus gilvus,23.30161231,1.715919817,279,0.050179211,5.06,25.05329416,12.64586269,1860.814437,253.1339876,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Mimus graysoni,15.37369331,1.816307599,2,1,18.86,24.075,14.075,288.625,73.375,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Mimus gundlachii,22.34870614,1.824776462,31,0.935483871,23.44,25.31279394,13.4685,1055.597515,140.0379212,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Mimus polyglottos,20.49604663,1.685741739,997,0.069207623,35.96,13.08866929,33.8752137,797.4081769,85.04544265,Nearctic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Mionectes galbinus,17.63201325,1.048053173,856,0.00817757,-1.64,25.04774837,13.60186386,2105.250284,262.2286074,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Mionectes oleagineus,18.06483593,1.184975191,143,0.006993007,1.41,22.64060291,12.58874276,2224.96974,238.8839008,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,none
+Mitrephanes phaeocercus,25.27385051,0.933993164,127,0,16.92,21.81057818,19.15615139,1733.447982,259.8610605,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Mitrospingus cassinii,12.56708753,1.606381365,41,0,5.58,23.86572414,10.30598138,3159.2835,320.0746779,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Mniotilta varia,25.50560546,1.037426498,978,0.00204499,46.8,5.020789353,42.30860139,830.6357197,58.283705,Nearctic,Carnivore,Invertivore,Invertivore bark,dense,directional migratory,weak
+Molothrus aeneus,25.28873718,1.796643704,277,0.028880866,21.54,21.71840661,22.81191862,1169.966974,200.2057792,Neotropic,Omnivore,Granivore,Granivore ground,semi-open,directional migratory,none
+Molothrus ater,32.97972379,1.604873771,1109,0.004508566,40.99,9.449754758,37.75863668,737.7250229,69.00044757,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,directional migratory,none
+Molothrus bonariensis,26.18207854,1.617943435,1207,0.006628003,-10.85,22.8019337,16.80334157,1546.136725,193.7497427,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,directional migratory,none
+Molothrus oryzivorus,32.04545073,2.259713305,991,0.003027245,-4.86,24.75356471,14.36306153,2031.555968,252.7330641,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Motacilla alba,30.97882362,1.378942699,3722,0.016657711,53.22,1.526003595,42.35679298,482.9068085,54.63827869,Palearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Motacilla tschutschensis,33.49958301,1.173186268,NA,NA,NA,NA,NA,NA,NA,Palearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Myadestes coloratus,22.25394788,1.460145817,2,0,7.58,25.4339,10.09915,2997.14,379.959,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Myadestes elisabeth,21.35490811,1.477121255,7,0.428571429,20.98,24.9166,15.03396364,1332.719091,168.8367727,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,strong
+Myadestes genibarbis,23.34115223,1.465382851,19,0.526315789,17.7,24.90264,12.712211,1579.485867,169.7259567,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,weak
+Myadestes melanops,21.45872357,1.506505032,10,0,9.56,24.31493077,12.44277692,2930.946154,396.1285808,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,strong
+Myadestes occidentalis,27.0132968,1.561101384,93,0.010752688,20.17,20.97849225,21.86878915,1121.437992,229.8245544,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Myadestes townsendi,29.87505863,1.521138084,423,0.002364066,47.89,3.977778182,38.55724235,568.3945256,69.00175894,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,strong
+Myadestes unicolor,23.51594872,1.57863921,40,0,16.51,22.31518085,17.06860213,1750.124021,286.6227594,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Myiarchus antillarum,15.9926884,1.369215857,7,1,18.46,25.55055,11.83861667,1399.043333,124.4167167,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiarchus barbirostris,15.37179533,1.127104798,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiarchus cinerascens,20.42199541,1.450249108,367,0.016348774,33.49,14.35427089,33.92825234,450.6152515,72.02926604,Nearctic,Carnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,weak
+Myiarchus crinitus,21.38870094,1.506505032,517,0.003868472,40.16,10.44029095,38.33550867,951.81842,70.56277834,Nearctic,Omnivore,Invertivore,Generalist,dense,directional migratory,strong
+Myiarchus nugator,13.80257602,1.568201724,2,1,12.58,26.08146667,9.883333333,2087.963333,194.2590667,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiarchus nuttingi,18.49077399,1.361727836,90,0,19.48,21.98182576,21.43502348,1174.106523,248.6684067,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiarchus oberi,15.30622169,1.540454614,8,1,15.62,25.57665556,9.764247778,1684.617778,153.409,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiarchus panamensis,17.21406877,1.501059262,64,0.015625,7.52,24.30071648,11.18877571,2566.739527,296.801563,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiarchus sagrae,13.68662964,1.28510703,41,0.707317073,21.41,25.27246774,15.23576774,1272.24129,170.7723161,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiarchus stolidus,12.92612679,1.318063335,14,0.357142857,18.71,24.873904,13.414988,1445.97264,164.390508,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiarchus tuberculifer,18.79819707,1.247973266,1006,0.007952286,0.27,24.25125446,15.08762007,1928.836066,249.5123757,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,dispersive migratory,weak
+Myiarchus tyrannulus,14.06211331,1.54961624,1052,0.006653992,-3.69,23.61358625,18.059873,1424.096224,221.9698214,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,weak
+Myiarchus validus,14.01596639,1.608526034,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Myiarchus yucatanensis,14.7506152,1.292256071,21,0.19047619,19.32,25.78238571,16.39648571,1281.356,188.5336664,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,strong
+Myiobius atricaudus,13.00548086,1,528,0.001893939,-5.99,24.86148802,13.92056271,1907.149889,245.3756554,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiobius sulphureipygius,16.37046547,1.06595298,103,0.038834951,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiobius villosus,18.59241453,1.149219113,73,0,-3.12,19.57134129,13.78594208,2107.910653,202.1132888,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myioborus miniatus,19.2167859,0.954242509,262,0,7.72,21.14774062,16.61444765,1683.113725,231.5118625,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Myioborus pictus,19.94041376,0.990782692,181,0,23.97,18.90811567,26.54902808,863.7210443,171.0965004,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,strong
+Myioborus torquatus,14.87976504,1.021189299,7,0,9.33,23.66543333,11.98587778,3135.895556,394.6932444,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Myiodynastes chrysocephalus,19.60727067,1.583198774,121,0,-2.39,20.16794342,14.20969538,1881.116544,204.5168609,Neotropic,Omnivore,Invertivore,Invertivore sally air,semi-open,resident,weak
+Myiodynastes hemichrysus,17.96036899,1.63748973,9,0,9.56,24.31493077,12.44277692,2930.946154,396.1285808,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Myiodynastes luteiventris,25.98974017,1.671172843,160,0.025,20.04,22.4263,20.85268893,1299.742701,235.3373553,Neotropic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Myiodynastes maculatus,19.07942802,1.635483747,1298,0.003081664,-8.38,24.04547711,15.85962411,1767.728836,224.3576619,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,weak
+Myiopagis caniceps,18.47258695,1.021189299,691,0,-9.85,24.24761056,15.07219971,1912.948043,223.6705609,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Myiopagis cotta,18.50229275,1.064457989,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiopagis gaimardii,18.35852219,1.079904468,775,0.001290323,-4.26,25.33749463,13.82724885,2109.90475,263.3208933,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiopagis viridicata,19.15949456,1.061075324,794,0.008816121,-5.06,24.06463526,16.11947127,1578.622946,238.2917398,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Myiophobus fasciatus,20.4306926,0.995635195,969,0.002063983,-12.92,22.81913974,17.23288298,1487.642078,201.6664815,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,weak
+Myiornis atricapillus,14.89888897,0.755874856,35,0,6.25,24.56688545,10.22432582,3242.284364,325.6982962,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Myiothlypis fulvicauda,14.89908353,1.173186268,276,0.007246377,-2.17,24.56830755,12.55017774,2488.61572,239.0489854,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Myiozetetes cayanensis,15.41534816,1.413299764,717,0.0013947,-4.28,25.16326965,14.24138403,1983.387842,278.6865878,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,resident,strong
+Myiozetetes granadensis,15.14986455,1.46686762,354,0.002824859,-2.1,24.81554611,12.83745857,2456.883844,247.9564949,Neotropic,Omnivore,Invertivore,Invertivore sally air,semi-open,resident,strong
+Myiozetetes similis,15.29127723,1.447158031,1003,0.005982054,-3.28,24.57745423,14.49934723,1849.254805,239.4974858,Neotropic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Myrmeciza longipes,6.40287462,1.445604203,169,0.00591716,5.97,25.47056398,11.83296369,1971.463364,260.9898244,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Myrmornis torquata,13.04370986,1.669316881,312,0,-0.36,25.81200929,12.43872986,2331.700524,302.0586081,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Myrmotherula axillaris,15.21323953,0.907948522,720,0.001388889,-3.52,25.21202414,13.34458198,2219.405611,265.4455935,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Myrmotherula ignota,9.927733406,0.851258349,164,0,-0.89,25.04196898,11.37680611,2782.456296,204.3673902,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Myrmotherula pacifica,10.656816,1.004321374,43,0,NA,21.13594815,10.36790259,2449.367259,238.2699244,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Myrmotherula schisticolor,13.40755082,0.982271233,134,0.014925373,4.17,22.37728335,12.8669072,2142.962484,243.8654088,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Nesopsar nigerrimus,16.67957239,1.591064607,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Nesospingus speculiferus,18.99159664,1.546542663,6,1,18.46,25.150825,12.985425,1556.065,138.200075,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Nesotriccus ridgwayi,16.66185089,1.041392685,1,1,5.68,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Nucifraga columbiana,33.3697849,2.11330815,268,0.003731343,42.66,6.825882162,37.45538307,503.0404013,54.75969773,Nearctic,Omnivore,Omnivore,NA,dense,resident,weak
+Oenanthe oenanthe,33.41327111,1.404662701,2990,0.020735786,54.76,0.455581104,41.88161628,486.5251038,54.17362602,Palearctic,Carnivore,Invertivore,Invertivore sally ground,open,directional migratory,weak
+Oncostoma cinereigulare,11.62729469,0.806179974,78,0.064102564,15.29,24.72254522,15.01428191,2013.036435,306.1376936,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Oncostoma olivaceum,12.95752545,0.819543936,33,0,8.27,24.81541556,11.05172867,2446.013333,298.4045209,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Onychorhynchus coronatus,21.18605199,1.146128036,542,0,-2.16,24.96290733,13.35140358,2177.289277,261.7706017,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,weak
+Oporornis agilis,30.42361782,1.123851641,321,0,50.75,1.255016572,46.29009073,649.4159122,64.30318,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Oreoscoptes montanus,25.98317858,1.645422269,176,0,41.91,6.942893888,39.22568498,434.2095352,47.99487558,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Oreothlypis gutturalis,22.86362943,0.977723605,4,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Oreothlypis superciliosa,24.69551282,0.954242509,87,0,19.79,21.14437664,21.34538598,1201.151019,240.5765618,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Oriturus superciliosus,15.69795949,1.617000341,48,0,22.89,17.68355424,25.47973729,836.4248475,186.9861746,Nearctic,Omnivore,Omnivore,NA,open,resident,weak
+Ornithion brunneicapillus,12.65724101,0.851258349,61,0,6.51,24.04396627,10.99583398,2636.090422,287.2148575,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Ornithion semiflavum,20.27525253,0.819543936,46,0.02173913,15.1,24.5115,14.46675111,2252.319889,328.0835308,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Oxyruncus cristatus,67.33313275,1.62324929,242,0,-9,23.37724805,14.8849326,1870.304919,241.2597764,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Pachyramphus aglaiae,20.12650147,1.472610198,169,0.029585799,19.7,22.67931703,20.46323057,1326.933039,238.7037308,Neotropic,Omnivore,Omnivore,NA,dense,directional migratory,weak
+Pachyramphus albogriseus,25.70014188,1.238046103,78,0,0.19,21.29725146,13.08287864,1661.752065,190.2993385,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Pachyramphus cinnamomeus,20.70170099,1.307496038,118,0.016949153,9.32,24.29127184,12.20020638,2322.62181,290.7218678,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Pachyramphus homochrous,20.56445403,1.571708832,50,0,5.09,24.13802597,11.33476455,2201.198104,254.4944018,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Pachyramphus major,25.6354627,1.394451681,106,0.037735849,19.26,22.58914755,19.58714336,1317.132378,239.3257608,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Pachyramphus niger,16.7251943,1.604226053,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Pachyramphus polychopterus,20.81775856,1.318063335,1228,0.002442997,-8.61,24.17446019,15.51546793,1803.536892,227.219603,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Pachyramphus rufus,20.76896369,1.274157849,389,0.002570694,0.65,25.96934015,12.02921809,2131.483983,265.8532904,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,weak
+Pachyramphus versicolor,21.63257408,1.190331698,88,0,-1.18,20.00309239,13.54728835,2009.541404,206.467875,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Pachysylvia aurantiifrons,11.68320628,0.977723605,79,0.012658228,9.2,25.93233596,11.99694026,1545.014246,226.860894,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Pachysylvia decurtata,14.59089151,0.92890769,131,0.038167939,11.27,23.96975838,13.57886886,2229.18347,297.130663,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Pachysylvia hypochrysea,16.80054291,1.086359831,51,0.019607843,20.96,21.62645882,22.39076765,987.8367206,235.7945086,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Parkesia motacilla,29.69616991,1.298853076,374,0.016042781,37.95,12.57530792,36.39427649,1106.404586,64.83534583,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Parkesia noveboracensis,27.98173852,1.212187604,1433,0.001395673,54.14,-0.823885535,43.67126182,667.6533358,56.48441597,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Passerculus bairdii,18.92741478,1.256477206,92,0,48.98,3.746081648,46.56874241,435.201557,61.24311766,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Passerculus henslowii,15.65940795,1.10720997,131,0,41.29,9.4682168,39.315311,943.594555,64.623458,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Passerculus sandwichensis,24.106621,1.300378065,1332,0.02027027,51.45,1.180872383,40.99865315,631.3177615,63.69260709,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Passerella arborea,19.93473176,1.251151343,510,0.001960784,61.04,-6.00290563,45.78646667,461.3259097,51.98098111,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Passerella iliaca,26.07694269,1.52179165,793,0.00630517,55.65,-1.275509515,41.29523239,616.4954114,63.45160876,Nearctic,Omnivore,Omnivore,NA,dense,directional migratory,weak
+Passerina amoena,23.12871457,1.190051418,277,0.014440433,42.17,7.698427505,38.2863827,477.4957154,60.20561925,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Passerina caerulea,19.81789504,1.437592032,561,0.003565062,32.08,15.76971959,33.35526137,815.7468522,98.66908751,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Passerina ciris,21.47891534,1.191451014,170,0,31.99,17.52987778,33.78207315,878.9396389,78.02642588,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Passerina cyanea,22.61699306,1.167021796,569,0.001757469,38.69,11.39426805,38.15534625,847.9865928,65.00864639,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Passerina leclancherii,15.40217374,1.146128036,26,0,18.03,23.572925,19.61799722,1111.340417,260.535115,Neotropic,Herbivore,Granivore,Granivore ground,semi-open,resident,weak
+Passerina rositae,16.84210651,1.301029996,3,0,16.48,24.0861,17.4014,1098.527667,236.99989,Neotropic,Herbivore,Granivore,Granivore ground,dense,resident,weak
+Passerina versicolor,19.71878976,1.110252917,179,0.005586592,24.57,19.85632829,27.16631122,712.7331268,149.3412105,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Perisoreus canadensis,18.75920105,1.854791694,826,0,54.19,-1.092916248,43.68757789,643.0598312,59.81258221,Nearctic,Omnivore,Omnivore,NA,dense,resident,weak
+Petrochelidon fulva,52.46865781,1.277609214,150,0.133333333,24.39,21.71004709,24.1178381,899.5210529,122.865326,Nearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Petrochelidon pyrrhonota,47.58715872,1.334453751,1172,0.003412969,44.61,6.619142914,39.20364657,684.5279454,73.47246675,Nearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Peucaea aestivalis,16.46139659,1.29136885,173,0,32.52,17.5841,31.29273247,1329.216818,84.17855909,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Peucaea botterii,11.50371338,1.298853076,135,0.014814815,21.21,21.66627158,22.3596859,1120.374634,210.6808145,Neotropic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Peucaea carpalis,13.44835195,1.184691431,27,0.037037037,28.47,21.80710513,30.17676923,451.5627436,116.1362317,Nearctic,Omnivore,Granivore,Granivore ground,semi-open,resident,strong
+Peucaea cassinii,16.44544518,1.276461804,223,0,31.6,15.9532154,34.88708302,492.0138792,76.79684484,Nearctic,Omnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Peucaea humeralis,11.04261302,1.378397901,18,0,18.54,22.20929091,21.26962727,1118.088091,254.5368645,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,strong
+Peucaea mystacalis,10.01429362,1.346352974,10,0,17.56,19.91932727,20.86857273,1237.069545,248.4287336,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Peucaea ruficauda,11.68233208,1.450249108,48,0,16.66,23.46007794,18.43439853,1367.282103,287.6999303,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Peucaea sumichrasti,9.349462075,1.468790262,3,0,16.22,23.89365,17.6871,1239.7575,272.602135,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Peucedramus taeniatus,27.55913582,1.041392685,119,0,22.22,20.01168325,24.2322649,987.8687351,194.4324825,Nearctic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Pezopetes capitalis,11.21496257,1.746634199,4,0,9.5,23.10548333,12.06298333,3233.61,388.1686667,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Phaenicophilus palmarum,15.97685108,1.484299839,9,0,18.7,24.825325,14.030755,1389.1693,155.099705,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Phaenicophilus poliocephalus,17.96393395,1.491361694,3,0,18.46,24.2218,14.438425,1513.3525,188.335275,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,weak
+Phaenostictus mcleannani,13.6999204,1.7084209,50,0.02,8.6,24.51253088,10.92169441,3087.342353,328.0202251,Neotropic,Carnivore,Invertivore,Invertivore sally ground,dense,resident,weak
+Phaeomyias murina,15.37846682,1,1000,0.002,-7.37,24.58485861,15.06086931,1752.209761,241.321052,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,directional migratory,weak
+Phainopepla nitens,16.87883995,1.344392274,161,0.037267081,29.8,17.55328,30.61673108,402.938064,81.21865898,Nearctic,Omnivore,Frugivore,Fugivore glean,semi-open,directional migratory,weak
+Phainoptila melanoxantha,15.15753572,1.748188027,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Pheucticus chrysopeplus,19.05873786,1.889861721,51,0,20.83,21.70931594,22.33118841,1149.199116,248.2518319,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,directional migratory,weak
+Pheucticus ludovicianus,27.59665447,1.62324929,415,0,46.28,5.651786123,41.69056842,787.5599873,60.61813917,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Pheucticus melanocephalus,23.80739414,1.67329744,454,0.00660793,37.75,10.68155223,35.68512961,556.1133074,85.46283175,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Pheucticus tibialis,23.82464195,1.794488047,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Pheugopedius atrogularis,11.09207571,1.383456297,10,0,10.97,24.630475,11.440875,3198.4025,394.966575,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Pheugopedius fasciatoventris,11.16243756,1.380211242,41,0,7.79,24.28538621,11.10373379,2709.943103,314.8460507,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,open,resident,strong
+Pheugopedius felix,6.302404719,1.105510185,47,0.021276596,21.68,21.74521692,23.06193077,950.5421077,230.1563004,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Pheugopedius maculipectus,10.30414398,1.176091259,89,0.056179775,17.64,24.12228051,16.82179169,1716.502373,268.9188491,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Pheugopedius rutilus,10.89634941,1.217483944,55,0.036363636,8.59,24.27948873,12.08111972,1908.931704,268.6709996,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Pheugopedius spadix,8.487641159,1.281260687,16,0,4.86,22.65667273,10.65277818,3430.380455,280.6222136,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Philohydor lictor,17.18812286,1.40654018,841,0,-4.63,25.38637986,13.79429228,2029.543735,256.6338724,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,strong
+Philydor fuscipenne,19.02059793,1.422425676,27,0,6.51,24.47180256,10.4797141,2955.124179,325.7025723,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Philydor rufum,19.73363276,1.397940009,285,0,-15.29,21.69096485,16.92779634,1674.966377,202.3433401,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Phonipara canora,12.58879115,0.908485019,16,0.25,21.48,25.21579643,15.44436071,1270.168929,170.69585,Neotropic,Herbivore,Granivore,Granivore ground,semi-open,resident,strong
+Phyllomyias burmeisteri,24.62973365,1.045322979,106,0,-23.47,19.88207162,19.53415405,1459.752399,148.5974169,Neotropic,Omnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Phyllomyias griseiceps,18.01918917,0.857332496,115,0,3.1,23.28551355,12.30551329,1813.576929,209.8126917,Neotropic,Omnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Phylloscartes flavovirens,19.22330097,0.944482672,5,0,8.54,25.7700625,9.56219875,2431.78375,358.5642613,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Phylloscartes superciliaris,16.01095285,0.887054378,15,0,8.05,23.2641,11.911845,2361.1435,282.07342,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Phylloscopus borealis,26.43239161,1.03702788,1571,0.024824952,58.62,-4.42755398,48.99012838,519.9431699,70.11849736,Palearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Pica hudsonia,25.09605088,2.248267604,469,0.042643923,NA,5.804655444,38.8923092,610.194887,82.97869575,Nearctic,Omnivore,Omnivore,NA,open,resident,weak
+Pica nutalli,26.27819953,2.199453479,18,0.111111111,37.26,13.2804375,29.2808875,616.6494167,115.5410259,Nearctic,Carnivore,Omnivore,NA,semi-open,resident,weak
+Pinaroloxias inornata,17.24075971,1.117271296,2,1,5.68,NA,NA,NA,NA,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Pinicola enucleator,28.80459559,1.751279104,1776,0.011824324,57.53,-3.647959787,47.32163311,547.1671396,59.32946161,Palearctic,Herbivore,Omnivore,NA,dense,directional migratory,weak
+Pipilo chlorurus,16.80936485,1.46834733,208,0.004807692,39.77,8.485588213,38.45465551,414.7483031,50.33544244,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Pipilo erythrophthalmus,13.55637346,1.60238559,363,0.002754821,39.29,10.38029463,36.32560377,802.3792125,78.88786413,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Pipilo maculatus,13.4809793,1.594171479,436,0.016055046,NA,10.38029463,36.32560377,802.3792125,78.88786413,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Pipilo ocai,11.37720767,1.78497371,30,0,18.41,21.9242875,20.5742,1140.635025,255.723262,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Piprites griseiceps,24.13120735,1.204119983,26,0.038461538,13.17,24.71113125,12.57535688,2556.6125,330.5978928,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Piranga bidentata,22.98711477,1.557146142,94,0,19.23,21.52041545,20.80351382,1318.211772,251.5701448,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Piranga erythrocephala,17.86782561,1.338456494,49,0,21.27,20.85346418,23.00627761,1008.282328,237.6887145,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Piranga hepatica,24.48432526,1.57634135,523,0,-6.7,21.72977725,19.67620501,1368.040456,194.2815682,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Piranga leucoptera,20.51667936,1.204119983,168,0,4.25,21.23220294,14.77062841,1859.67979,234.4190467,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Piranga ludoviciana,28.32087177,1.44870632,410,0.002439024,47.05,4.859853444,39.18167454,552.7363643,65.89254382,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Piranga olivacea,32.32319079,1.450249108,289,0,41.9,8.827575767,39.30990833,981.3567943,60.46783958,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Piranga roseogularis,17.87541689,1.380211242,18,0.166666667,19.05,25.75075455,16.27739091,1323.44,190.1717455,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Piranga rubra,30.34213553,1.464340485,347,0,33.29,16.1651767,33.87630872,894.6134255,76.08485931,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Pitangus sulphuratus,16.70773155,1.798305282,1451,0.004135079,-7.97,23.29990542,17.06191873,1633.933016,212.788892,Neotropic,Carnivore,Omnivore,NA,open,resident,strong
+Pittasoma michleri,5.889346393,2.037426498,16,0,8.63,24.85038182,10.23155545,3030.452727,362.4895814,Neotropic,Carnivore,Invertivore,Invertivore sally ground,dense,resident,strong
+Platyrinchus cancrominus,14.14862435,0.963787827,68,0.058823529,15.86,24.73596593,15.19644637,1916.283659,293.6460891,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Platyrinchus coronatus,22.36715429,0.960946196,502,0.001992032,-1.83,25.45199255,12.54784681,2422.440426,264.5501645,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Platyrinchus mystaceus,16.10833115,0.986771734,632,0.001582278,-9.23,23.53437092,15.45159994,1628.287479,217.4131302,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Plectrophenax hyperboreus,36.5903568,1.736396502,7,1,62.2,-2.778698889,26.45154444,493.8137778,59.3907,Nearctic,Omnivore,Granivore,Granivore ground,open,directional migratory,weak
+Plectrophenax nivalis,39.31767243,1.625312451,1013,0.096742349,68.57,-9.778886922,40.69582272,403.8437658,39.15870488,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Poecile atricapillus,19.60140947,1.033423755,875,0,49.31,3.134646807,41.72460701,706.7535141,63.49725612,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Poecile carolinensis,19.51503857,0.999565488,227,0,34.4,15.8757983,34.01909067,1132.29102,73.45311767,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Poecile cinctus,19.55104158,1.056904851,1061,0.006597549,62.51,-7.097488153,51.12188669,433.5545839,54.51798428,Palearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Poecile gambeli,19.19684665,1.048830087,294,0.003401361,44.01,6.481906726,37.24513474,514.3316134,56.20185773,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Poecile hudsonicus,18.42676783,0.991226076,723,0,56.05,-2.220401382,44.51093894,633.3942497,55.9653639,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Poecile rufescens,17.79640335,0.972665592,135,0.014814815,49.93,5.083610544,28.69467525,1203.495876,136.3484308,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Poecile sclateri,17.38356144,1.003891166,57,0,22.91,18.8442209,25.52249552,847.0547164,190.5179288,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Poecilotriccus sylvia,11.30095637,0.851258349,251,0.019920319,6.68,25.42953578,13.09970971,1957.029305,296.3707734,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Poliocrania exsul,7.304276809,1.423245874,62,0.016129032,7.39,24.51723407,11.04150901,2857.520407,330.8217348,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,strong
+Polioptila albiloris,16.11590094,0.796574333,47,0.042553191,15.95,23.98971212,17.23468788,1448.688424,279.4269953,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Polioptila caerulea ,19.08536544,0.763427994,738,0.051490515,32.88,15.3871176,32.11334114,863.7017972,92.63153656,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Polioptila californica,10.60447502,0.764922985,23,0.217391304,28.16,20.09146279,26.64546047,177.0106535,38.4232414,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Polioptila lembeyei,12.59756098,0.698970004,8,0.125,20.92,25.28004375,15.1650875,1201.010625,159.3276813,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Polioptila melanura,11.87832447,0.716003344,126,0.007936508,29.01,18.00071299,32.14091557,395.3637228,78.22924256,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,open,resident,strong
+Polioptila nigriceps,10.92787653,0.748188027,27,0,24.91,21.9939,25.88012,769.425925,198.509774,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Polioptila plumbea,12.32577481,0.77815125,678,0.007374631,0.73,25.29907023,12.53234086,2037.364959,245.9446773,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Polioptila schistaceigula,14.22235872,0.77815125,29,0,4.85,24.13393158,10.18727,3364.547368,300.2570474,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Pooecetes gramineus,23.84896143,1.409595019,746,0,45.88,5.18496129,41.53379201,690.5607024,57.74298406,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Premnoplex brunnescens,15.41979073,1.212187604,119,0,-1.55,20.17735858,13.79190182,2027.218378,216.4549848,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Procnias tricarunculatus,23.06048672,2.322219295,18,0.055555556,10.89,24.358704,13.40052,2398.1708,345.6695168,Neotropic,Herbivore,Frugivore,Generalist,dense,dispersive migratory,none
+Progne chalybea,57.94422314,1.632457292,1371,0.005105762,-7.08,23.9727545,15.86636207,1756.328834,226.1068186,Neotropic,Carnivore,Invertivore,Invertivore aerial,semi-open,directional migratory,none
+Progne cryptoleuca,55.55481678,1.662757832,17,0.294117647,21.51,25.24450968,15.3648,1259.426129,168.8067355,Neotropic,Carnivore,Invertivore,Invertivore aerial,semi-open,directional migratory,none
+Progne dominicensis,56.19443712,1.597695186,37,0.756756757,17.43,25.334482,11.8271372,1501.72272,152.846652,Neotropic,Carnivore,Invertivore,Invertivore aerial,semi-open,directional migratory,none
+Progne elegans,51.2551528,1.704150517,139,0,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Progne sinaloae,54.33069506,1.629409599,37,0,23.9,19.3964,26.27158511,842.7645745,205.9949894,Nearctic,Carnivore,Invertivore,Invertivore aerial,dense,directional migratory,none
+Progne subis,51.29183369,1.730701544,650,0.007692308,38.36,11.69231865,36.76608575,842.5527679,76.73301293,Nearctic,Carnivore,Invertivore,Invertivore aerial,semi-open,directional migratory,none
+Progne tapera,48.04804137,1.505149978,787,0,-13.63,22.74757193,17.70903442,1478.143687,191.0069821,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Protonotaria citrea,29.91979441,1.155336037,391,0.10741688,36.55,13.9769221,35.16437994,1130.699171,71.46477485,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Psaltriparus minimus,19.4245801,0.72427587,301,0.006644518,33.27,13.62324579,31.77897282,674.34503,112.135964,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,none
+Psarocolius decumanus,22.4695946,2.314499228,966,0.002070393,-6.89,24.78139071,14.6141668,1973.828072,245.08351,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Psarocolius guatimozinus,21.97051134,2.607787319,17,0,7.26,23.89003077,10.98957423,2466.162692,284.4624346,Neotropic,Carnivore,Omnivore,NA,dense,resident,none
+Psarocolius montezuma,23.88140414,2.491179532,73,0.01369863,15.1,24.10309898,15.09251102,2076.235602,304.08041,Neotropic,Carnivore,Omnivore,NA,dense,resident,none
+Psarocolius wagleri,28.53688536,2.191730393,86,0.023255814,10.34,24.46058992,12.3714079,2698.684118,329.8440454,Neotropic,Carnivore,Omnivore,NA,dense,resident,none
+Pselliophorus luteoviridis,12.05792829,1.477121255,2,0,8.73,24.1163,11.28543333,3015.393333,389.4759,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Pselliophorus tibialis,11.70139241,1.477121255,4,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Omnivore,Omnivore,NA,dense,resident,strong
+Pseudocolaptes lawrencii,20.11715752,1.707570176,6,0,3.42,20.53463478,11.50596913,2664.321739,282.2995274,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Pseudopipra pipra,19.43232759,1.045714059,507,0,-1.61,25.44923299,12.29973271,2321.783747,260.1104408,Neotropic,Omnivore,Frugivore,Fugivore aerial,dense,resident,none
+Pseudotriccus pelzelni,16.6101212,1.037426498,48,0,-0.34,20.52857097,12.24129355,2322.559323,205.2888784,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Ptiliogonys caudatus,22.28329753,1.558588583,5,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Ptiloxena atroviolacea,21.74070428,1.922206277,16,0.25,21.48,25.21579643,15.44436071,1270.168929,170.69585,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Pygochelidon cyanoleuca,46.38452839,0.986771734,1204,0.000830565,-20.29,18.80260261,19.1489442,1162.581782,144.2586211,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Pyrocephalus rubinus,21.18258684,1.158362492,794,0.020151134,-1.38,20.57756529,22.38024158,1022.848388,138.8829496,Neotropic,Carnivore,Invertivore,Invertivore sally air,open,directional migratory,weak
+Pyrrhulagra nigra,16.33501235,1.172602931,18,0.333333333,21.45,25.28270313,15.244025,1263.18375,169.6044313,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Pyrrhulagra portoricensis,13.09070377,1.505692507,7,1,18.46,25.150825,12.985425,1556.065,138.200075,Neotropic,Herbivore,Omnivore,NA,dense,resident,weak
+Pyrrhulagra violacea,19.11554989,1.345765693,37,0.756756757,21.34,25.0699551,13.47630612,1237.773082,150.7829898,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,weak
+Querula purpurata,17.9808084,2.030802049,559,0,-3.5,25.14611718,13.34374272,2288.420328,271.383308,Neotropic,Omnivore,Frugivore,Fugivore aerial,dense,resident,strong
+Quiscalus lugubris,23.05652572,1.799547307,104,0.096153846,7.38,25.99524,11.814092,2021.896536,273.2153156,Neotropic,Omnivore,Omnivore,NA,open,resident,none
+Quiscalus major,29.6993501,2.179580513,47,0,31.7,18.700325,27.76810735,1316.841765,101.4065632,Nearctic,Carnivore,Omnivore,NA,open,directional migratory,none
+Quiscalus mexicanus,26.79148356,2.205393853,504,0.017857143,26.65,18.26388061,28.43503401,988.6229739,146.1092049,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,none
+Quiscalus nicaraguensis,22.22010103,1.801815169,5,0,11.8,25.66491429,13.27667143,1959.452857,335.2734229,Neotropic,Omnivore,Omnivore,NA,open,resident,none
+Quiscalus niger,19.70086512,1.858477042,40,0.475,20.05,25.14281587,14.29246349,1353.348508,164.9349968,Neotropic,Omnivore,Omnivore,NA,open,resident,none
+Quiscalus palustris,25.20325203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unknown,none
+Quiscalus quiscula,25.32908046,2.021933166,829,0.001206273,43.82,7.209350829,40.92922071,802.9588931,63.2623846,Nearctic,Carnivore,Omnivore,NA,open,directional migratory,none
+Ramphocaenus melanurus,8.107188406,0.986771734,887,0.006764374,-2.19,25.20048131,13.56958652,2096.902953,261.3624234,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Ramphocelus dimidiatus,16.8102662,1.447158031,57,0.087719298,7.94,24.34877763,11.41941526,2100.048566,262.0756882,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Ramphocelus flammigerus,15.08265804,1.51851394,9,0,4.04,22.93527015,10.53076448,2695.165821,278.2902252,Neotropic,Omnivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Ramphocelus passerinii,12.60275741,1.505149978,37,0.027027027,13.7,24.71583509,13.55468632,2478.199298,338.4362477,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Ramphocelus sanguinolentus,16.1841778,1.612783857,53,0.018867925,14.34,24.73727121,13.70504818,2359.803182,321.4079629,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Ramphocinclus brachyurus,15.1869429,1.698970004,5,1,14.29,25.254575,9.8745825,2052.375,202.104175,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Regulus calendula,21.99060368,0.791690649,1000,0.002,52.48,0.448002812,42.46464147,654.7164148,61.04204895,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Regulus satrapa,23.55921577,0.791690649,771,0,48.49,3.457477874,39.31369511,794.2417437,72.18219249,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Rhodinocichla rosea,9.088181526,1.681241237,43,0.023255814,12.71,24.13457966,14.53655492,1612.877271,270.0086964,Neotropic,Herbivore,Omnivore,NA,dense,resident,strong
+Rhynchocyclus aequinoctialis,15.16120459,1.328379603,584,0,-2.75,25.27762362,12.80252657,2116.97791,255.0360025,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Rhynchocyclus brevirostris,17.32612278,1.385606274,87,0.022988506,12.77,24.167425,14.11303289,2290.635803,304.1393502,Neotropic,Omnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Rhynchophanes mccownii,22.85146734,1.409595019,178,0,46.81,4.60873774,43.256412,389.44282,50.0927374,Nearctic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Rhytipterna holerythra,16.86005972,1.565847819,84,0.011904762,10.16,24.08042034,12.37253339,2683.971636,320.3598168,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Ridgwayia pinicola,36.69074565,1.944482672,60,0,21.78,19.86975921,23.95743289,949.3864211,216.8349812,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Riparia riparia,48.76621436,1.103119254,4317,0.009960621,49.53,2.849858311,42.06680083,550.9545367,67.91610307,Palearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Salpinctes obsoletus,17.30108297,1.214048679,560,0.016071429,35.3,12.79582573,34.55214979,543.6147627,84.5620313,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,strong
+Saltator albicollis,21.27666797,1.616265405,6,1,3.77,22.71677064,12.69818421,1519.886805,202.719418,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Saltator atriceps,14.51248316,1.92319219,102,0.049019608,16.02,24.26408652,15.61428376,1855.482426,286.1265315,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Saltator coerulescens,15.00298354,1.739572344,993,0.006042296,-4.69,24.65425364,15.66380739,1807.68305,240.6156377,Neotropic,Herbivore,Omnivore,NA,semi-open,resident,strong
+Saltator grossus,19.98858212,1.645422269,596,0,-2.18,25.28755025,12.72406459,2365.949015,270.3639746,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Saltator maximus,18.43918061,1.677789391,910,0.002197802,-3.17,25.12245358,13.7259519,2098.881057,263.3527716,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,strong
+Saltator striatipectus,15.28744896,1.591064607,127,0.015748031,NA,24.86324558,12.9394189,1855.625257,271.5641727,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Sapayoa aenigma,18.98600772,1.318063335,25,0,5.73,24.80401622,9.827222162,3495.342162,331.1775024,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Sayornis nigricans,21.2674897,1.270212855,424,0.007075472,14.42,19.3845611,22.12894669,1191.808559,176.4407559,Neotropic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Sayornis phoebe,20.64178422,1.294466226,667,0,46,5.978301541,42.36351482,780.3981241,60.89046708,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Sayornis saya,25.60560193,1.320146286,735,0.002721088,48.39,4.306308885,40.5133518,443.9078426,59.38397513,Nearctic,Carnivore,Invertivore,Generalist,open,directional migratory,weak
+Schiffornis stenorhyncha,15.02436443,1.501059262,798,0.006265664,-1.9,25.15100975,13.40205022,2187.847717,265.6455081,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Schiffornis veraepacis,15.02436443,1.501059262,798,0.006265664,-1.9,25.15100975,13.40205022,2187.847717,265.6455081,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Sclerurus albigularis,17.54180051,1.541579244,102,0.009803922,-2.78,21.5673796,14.28105683,1838.612976,208.9179087,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Sclerurus guatemalensis,17.24100153,1.540329475,73,0.01369863,10.84,24.72565926,12.61518444,2494.490157,321.983604,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Sclerurus mexicanus,13.03733771,1.399673721,655,0,-2.87,24.90202127,13.16168158,2227.050018,259.5458559,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Scytalopus argentifrons,6.565953225,1.230448921,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Scytalopus chocoensis,16.34885954,1.300378065,12,0,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Scytalopus panamensis,9.731140227,1.25791845,1,0,7.97,25.2333,9.85,2448.04,307.1247,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Seiurus aurocapilla,24.59156882,1.274157849,794,0,46.53,5.139011466,41.88996632,816.1328873,58.58600743,Nearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Serpophaga cinerea,14.12119785,0.919078092,116,0,-2.42,19.11711808,14.23978192,1858.23285,208.1688547,Neotropic,Carnivore,Invertivore,Invertivore sally air,open,resident,strong
+Setophaga adelaidae,10.91094771,0.84135947,6,1,17.07,25.5610375,11.24667125,1509.9225,135.2979125,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Setophaga americana,29.17343257,0.894316063,557,0,39.79,10.57586385,37.11244053,1083.734305,66.44628615,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Setophaga angelae,19.68321565,0.886490725,6,1,18.46,25.150825,12.985425,1556.065,138.200075,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,NA,strong
+Setophaga auduboni,26.17043617,1.077004327,1330,0.00075188,51.89,0.882307829,42.19706242,642.3962297,61.39513087,Nearctic,Carnivore,Invertivore,Generalist,dense,NA,weak
+Setophaga caerulescens,24.43009221,1.006037955,342,0,44.53,5.683128807,39.34480821,1027.756512,50.01819952,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Setophaga castanea,31.3675435,1.071882007,811,0.007398274,51.84,0.283180894,46.38560804,719.8024573,56.12645955,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga cerulea,34.19163263,0.95616843,403,0.012406948,40.21,10.36118948,38.14140482,1035.726145,59.57710964,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga chrysoparia,21.0703849,0.995635195,12,0,30.78,18.783,33.80491538,734.8029231,66.23416923,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga citrina,20.93444831,1.022840611,281,0.042704626,36.25,14.11457174,34.24348688,1190.710738,64.36173404,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,strong
+Setophaga coronata,26.17043617,1.077004327,1330,0.00075188,51.89,0.882307829,42.19706242,642.3962297,61.39513087,Nearctic,Carnivore,Invertivore,Generalist,dense,NA,weak
+Setophaga delicata,17.96334453,0.86923172,4,1,NA,NA,NA,NA,NA,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,NA,weak
+Setophaga discolor,20.60204719,0.883093359,211,0.004739336,36.1,14.26089971,33.82551643,1196.3139,68.37643321,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Setophaga dominica,27.48051282,0.986323777,321,0.031152648,34.37,15.77693308,32.89660559,1218.941934,78.50484545,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Setophaga flavescens,27.48051282,0.986323777,321,0.031152648,34.37,15.77693308,32.89660559,1218.941934,78.50484545,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Setophaga fusca,33.25429107,0.988558957,769,0.052015605,46.64,4.017025031,42.30789417,895.9694969,54.83294724,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga graciae,26.18935103,0.908485019,163,0,26.14,17.76873468,28.27916218,896.7912355,164.2396768,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga kirtlandii,20.49424262,1.144262774,3,0,44.63,6.4584,39.2291,790.7868333,61.99206667,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Setophaga magnolia,22.58692732,0.910624405,793,0.001261034,51.16,1.151620024,44.70639424,731.5393234,56.07817491,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga nigrescens,22.22555832,0.939519253,340,0.020588235,39.98,9.451506037,34.71662247,621.3703037,80.35506094,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,NA,weak
+Setophaga occidentalis,28.11713911,1.017033339,49,0,41.4,10.33438101,28.73404783,1013.461609,159.8227225,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga palmarum,20.06742984,1.012837225,389,0,52.55,-0.162348959,46.03608086,709.1497881,57.7349037,Nearctic,Carnivore,Invertivore,Generalist,dense,directional migratory,weak
+Setophaga pensylvanica,26.68063534,0.968015714,662,0.00755287,46.72,4.060586382,42.52601538,873.3704085,55.17085836,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Setophaga petechia,27.48121186,1.009450896,1404,0.017806268,44.5,6.188198821,36.66437694,800.4050615,87.05197747,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,NA,weak
+Setophaga pharetra,17.70731095,0.995635195,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Setophaga pinus,28.63137664,1.071513805,309,0.029126214,37.64,12.42885075,34.77894987,1123.36735,73.05972918,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Setophaga pitiayumi,20.87649513,0.833784375,896,0.005580357,-8.93,22.95636594,17.36205514,1496.877941,202.6045406,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Setophaga pityophila,24.19604522,0.903089987,12,0.666666667,22.54,24.78488235,15.19160588,1312.750588,163.7932765,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Setophaga plumbea,19.43503706,1.004321374,2,1,15.7,24.85243333,10.3806,2034.826667,170.7151,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Setophaga ruticilla,24.02643017,0.915927212,1230,0.001626016,46.83,5.054342298,40.60028391,817.7354104,59.95998073,Nearctic,Carnivore,Invertivore,Invertivore sally air,dense,directional migratory,weak
+Setophaga striata,32.86892186,1.073351702,1277,0.051683634,57.4,-3.352313868,45.18281973,587.4595261,53.71229418,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga subita,13.32842185,0.880813592,1,1,NA,25.3675,10.0575,1961.225,187.375,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Setophaga tigrina,26.8322471,1.001733713,575,0,52.06,0.47000908,46.41825496,676.2940331,57.18683868,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga townsendi,28.37785694,0.946452265,497,0.00804829,54.78,1.274546442,34.65615529,951.5180235,98.21947647,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga virens,26.62464888,0.939019776,788,0.003807107,48.21,3.113886225,42.24584404,874.7988712,57.1235525,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Setophaga vitellina,15.02401897,0.826074803,4,1,19.06,26.516675,11.175,1310.7925,180.08325,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Sialia currucoides,36.60191077,1.471291711,478,0,48.89,3.266239101,41.84472582,451.0046472,53.72703,Nearctic,Omnivore,Invertivore,Invertivore sally ground,open,directional migratory,weak
+Sialia mexicana,37.23909626,1.422261451,271,0.007380074,35.31,11.9028349,32.85206346,590.490675,95.15272725,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,strong
+Sialia sialis,32.76980287,1.439332694,656,0.00152439,36.57,12.26739435,35.58322015,1001.561726,97.02235386,Nearctic,Carnivore,Invertivore,Invertivore sally ground,semi-open,directional migratory,weak
+Sicalis luteola,21.15333918,1.201397124,350,0,5.36,24.36860397,12.67946068,1981.959575,274.077963,Neotropic,Herbivore,Granivore,Granivore ground,open,directional migratory,weak
+Sipia laemosticta,9.444256771,1.397940009,38,0,8.17,24.26495333,11.32520867,2616.707778,316.967732,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Sirystes albogriseus,19.87062866,1.50242712,17,0,NA,24.31985735,15.14337932,1985.937715,250.1627229,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Sitta canadensis,26.15590175,0.991226076,763,0.002621232,48.83,3.34047776,40.08585258,757.4849348,66.74646964,Nearctic,Omnivore,Omnivore,NA,dense,dispersive migratory,weak
+Sitta carolinensis,31.19303895,1.322219295,859,0.004656577,39.64,10.21115792,36.95183269,764.9345781,73.28323033,Nearctic,Omnivore,Omnivore,NA,dense,resident,weak
+Sitta pusilla,23.25439977,1.008600172,110,0.036363636,32.26,17.92837919,30.29868926,1333.100268,86.20641007,Nearctic,Omnivore,Invertivore,Invertivore bark,dense,resident,strong
+Sitta pygmaea,17.98946348,1.025305865,288,0.006944444,36.44,11.16045271,34.87477456,516.0673888,81.29522252,Nearctic,Omnivore,Invertivore,Invertivore bark,dense,resident,strong
+Sittasomus griseicapillus,21.99258842,1.117933835,1145,0.006113537,-7.06,24.28296264,15.53661005,1758.969676,225.5897589,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Spindalis dominicensis,20.51558194,1.46834733,9,0,NA,NA,NA,NA,NA,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Spindalis nigricephala,21.86734471,1.653694795,5,1,NA,NA,NA,NA,NA,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Spindalis portoricensis,22.56292648,1.506775537,6,1,NA,NA,NA,NA,NA,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Spindalis zena,21.24526908,1.404149249,46,0.695652174,21.46,25.14583191,14.21444468,1235.820468,154.7047979,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Spinus atriceps,32.0664477,1.12904506,12,0,15.81,22.52880714,16.66813571,2055.232857,336.1037007,Neotropic,Herbivore,Granivore,Generalist,semi-open,resident,weak
+Spinus dominicensis,29.47082768,1.100370545,5,0,18.66,23.8805,14.8597875,1444.665,176.441475,Neotropic,Herbivore,Granivore,Generalist,semi-open,resident,weak
+Spinus lawrencei,29.00529141,1.039017322,60,0.033333333,35.69,14.50575167,29.83403571,483.9407476,89.14218857,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Spinus notatus,30.87537672,1.037426498,98,0,19.27,21.53038134,20.58824716,1339.722776,250.5624537,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,resident,weak
+Spinus pinus,35.25225488,1.103803721,927,0,47.64,3.940117563,39.32182171,737.0507107,76.22825173,Nearctic,Herbivore,Granivore,Granivore arboreal,dense,directional migratory,weak
+Spinus psaltria,25.98267663,0.942999593,487,0.024640657,26.33,16.84729702,28.01255657,804.7778524,126.5473772,Nearctic,Herbivore,Granivore,Generalist,semi-open,directional migratory,weak
+Spinus tristis,27.55566657,1.106870544,800,0,44.15,6.915363539,40.14126093,807.8742518,63.48038572,Nearctic,Herbivore,Granivore,Generalist,dense,directional migratory,weak
+Spinus xanthogastrus,29.67048274,1.103803721,59,0,0.1,20.70539014,13.33703392,2133.441203,235.0923681,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Spiza americana,26.12178101,1.417969642,338,0,39.77,10.97782966,39.94441602,832.6585309,70.10098252,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Spizella atrogularis,15.22400457,1.053078443,142,0.014084507,30.49,15.70418515,31.77520667,453.6206127,85.41817988,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Spizella breweri,20.48082069,1.037426498,341,0.008797654,42.77,7.058764235,39.14089254,446.5100648,52.18984761,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Spizella pallida,18.58062976,1.049218023,358,0,50.85,1.957665596,45.27670369,556.8436399,56.86146521,Nearctic,Omnivore,Granivore,Granivore arboreal,semi-open,directional migratory,weak
+Spizella passerina,24.23119088,1.086359831,1313,0.004569688,43.88,6.995344203,38.72133356,786.2846247,79.59657441,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Spizella pusilla,16.71089323,1.096910013,442,0,39.36,11.33581048,38.345308,932.4885029,66.37855236,Nearctic,Omnivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Spizella wortheni,18.32660571,1.092720645,22,0,23.76,18.24310303,26.58795455,528.418303,103.4167342,Nearctic,Herbivore,Granivore,Granivore ground,open,resident,weak
+Spodiornis rusticus,21.3356014,1.193124598,144,0,2.33,20.05639926,14.8257425,1921.05196,228.058081,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,resident,weak
+Sporophila corvina,17.81135069,1.026124517,84,0.023809524,NA,25.22318077,11.69284591,2490.092747,261.5967123,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Sporophila crassirostris,16.20707757,1.320146286,303,0,2.41,25.28467085,11.64670857,2469.993299,254.8101666,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Sporophila funerea,15.37575537,1.113943352,119,0.016806723,NA,24.55953297,14.52190153,1911.786874,242.7782207,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Sporophila minuta,17.13198129,0.892094603,279,0.007168459,6.4,25.45057124,12.33459819,2135.228389,286.6374821,Neotropic,Herbivore,Granivore,Granivore arboreal,open,resident,weak
+Sporophila morelleti,15.44887979,0.939519253,142,0.035211268,17.86,23.47875622,18.14340209,1537.82695,263.0114966,Neotropic,Herbivore,Granivore,Granivore arboreal,open,resident,weak
+Sporophila nigricollis,15.09868326,0.982271233,705,0.004255319,3.47,24.67910526,12.18409869,2160.251496,251.652101,Neotropic,Herbivore,Granivore,Granivore arboreal,open,nomadic,weak
+Sporophila nuttingi,15.4006549,1.380211242,14,0,11.67,24.66724118,11.72208824,2968.368235,379.1685118,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Sporophila schistacea,24.9103125,1.103803721,222,0.013513514,-0.89,24.75542435,13.50565269,2278.205482,287.3280191,Neotropic,Herbivore,Granivore,Granivore arboreal,dense,nomadic,weak
+Sporophila torqueola,15.44887979,0.939519253,142,0.035211268,17.86,23.47875622,18.14340209,1537.82695,263.0114966,Neotropic,Herbivore,Granivore,Granivore arboreal,open,resident,weak
+Stelgidopteryx ruficollis,53.72669099,1.206825876,1210,0.001652893,-8.18,24.22832744,15.15949103,1824.718302,228.4496862,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Stelgidopteryx serripennis,50.91307202,1.195622944,1008,0.008928571,37.94,11.5348541,35.31984527,836.9049927,90.04289949,Nearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Sturnella magna,24.80057457,1.962653405,865,0.010404624,23.24,17.64842063,23.80419768,1489.791973,196.5966272,Nearctic,Carnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Sturnella neglecta,27.80491657,2.000260499,688,0.010174419,41.94,8.448548826,38.82337004,572.153975,70.23150894,Nearctic,Omnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Sublegatus arenarum,18.96866532,1.089905111,120,0.016666667,8.24,26.09605345,11.96981592,1835.312994,266.4718286,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Synallaxis albescens,13.75753318,1.049218023,935,0.002139037,-10.77,23.70723574,16.90947344,1574.7748,222.4863432,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Synallaxis brachyura,12.62726877,1.26245109,73,0.01369863,6.37,23.33454667,11.20388886,2609.997048,291.9287196,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Synallaxis erythrothorax,9.441038031,1.23299611,51,0.098039216,17.19,24.65843611,16.22085694,1711.385986,275.9760832,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Syndactyla subalaris,17.52892779,1.460897843,85,0,0.71,20.34685288,12.8039999,2140.881894,214.8806441,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Tachycineta albilinea,52.1270025,1.222716471,127,0.05511811,-5.78,21.43812,16.10269333,227.3210533,61.8308074,Neotropic,Carnivore,Invertivore,Invertivore aerial,open,resident,none
+Tachycineta bicolor,54.34045018,1.326335861,1120,0.003571429,50.51,2.193877348,42.01751144,698.5505661,63.70668541,Nearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Tachycineta cyaneoviridis,55.88378598,1.243038049,9,1,25.64,24.64051,15.01296,1229.24,149.94964,Neotropic,Carnivore,Invertivore,Invertivore aerial,dense,dispersive migratory,none
+Tachycineta euchrysea,55.55213362,1.230704314,5,0.2,18.6,24.104675,14.02274167,1550.98,188.5732833,Neotropic,Carnivore,Invertivore,Invertivore aerial,dense,resident,none
+Tachycineta thalassina,52.84233302,1.150449409,604,0.013245033,43.16,7.854370943,35.56069987,578.9199114,79.93636695,Nearctic,Carnivore,Invertivore,Invertivore aerial,open,directional migratory,none
+Tachyphonus rufus,16.17918899,1.536558443,573,0.001745201,-7.26,24.40179409,15.05490792,1640.481117,234.6681239,Neotropic,Omnivore,Invertivore,Generalist,semi-open,resident,none
+Tangara abbas,25.47018767,1.301464073,6,0,15.3,22.3501,16.78748,1795.631,338.341485,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Tangara cabanisi,21.14809345,1.301029996,7,0,9.33,23.66543333,11.98587778,3135.895556,394.6932444,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara dowii,24.50136442,1.285557309,25,0,6.32,23.35334286,10.50464964,2984.3825,308.9610071,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Tangara episcopus,20.85714286,1.322219295,2,0,7.58,25.4339,10.09915,2997.14,379.959,Neotropic,Omnivore,Omnivore,NA,dense,resident,none
+Tangara florida,23.15171628,1.264817823,87,0,6.42,23.82538947,12.09961175,2341.237105,290.0758561,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara fucosa,22.84756036,1.322219295,482,0.004149378,-1.83,24.55497532,13.08784998,2287.653921,264.1527349,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara guttata,21.94992268,1.342422681,35,0,4.69,22.88555385,11.29176288,2613.044673,302.4818682,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara gyrola,24.08549784,1.255272505,31,0,7.54,24.53489167,10.53002104,3199.228542,325.1114185,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Tangara icterocephala,21.44426072,1.301029996,81,0.012345679,10.25,24.32895169,12.39721898,2646.894237,318.1771986,Neotropic,Herbivore,Frugivore,Fugivore glean,semi-open,resident,none
+Tangara inornata,23.90420281,1.380211242,41,0,8.2,24.42859592,11.06112327,3137.174286,307.4431829,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara larvata,21.28578153,1.509202522,17,0,4.14,23.08577727,10.19350364,3225.604545,287.3131818,Neotropic,Omnivore,Frugivore,Fugivore glean,dense,resident,none
+Tangara lavinia,20.90393951,1.361727836,29,0,4.36,20.03612308,11.23204821,2585.064359,222.1673564,Neotropic,Omnivore,Frugivore,Fugivore glean,semi-open,resident,none
+Tangara palmarum,5.182575235,1.772321707,1157,0.001728608,-6.84,24.53971162,15.07956406,1855.313398,240.5453751,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Tangara palmeri,16.21218232,0.86923172,730,0.002739726,-2.13,25.23216622,13.36149919,2268.779514,273.093289,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Tangara vitriolina,11.38740617,0.995635195,9,0.444444444,22.21,25.11590769,15.54107692,1335.701538,182.1496077,Neotropic,Omnivore,Frugivore,Fugivore glean,semi-open,resident,weak
+Taraba major,8.274281274,0.986771734,9,0.111111111,21.13,25.26712941,15.14316471,1209.988824,159.6844235,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Terenotriccus erythrurus,30.97033914,1.462397998,843,0.00118624,-8.94,24.06173067,15.2207256,1904.296779,233.6328546,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,none
+Teretistris fernandinae,16.21456383,1.315970345,123,0.008130081,4.45,22.72334376,13.34620428,2409.436277,275.3729811,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Teretistris fornsi,9.221666808,1.372912003,90,0.011111111,NA,24.75691118,14.45344508,1759.106126,256.6313088,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Tersina viridis,9.426844346,1.431363764,9,0.111111111,8.79,24.73511429,12.94329286,2641.971429,417.1118607,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,strong
+Thamnistes anabatinus,8.991922268,1.431846046,1030,0.005825243,-5.15,24.69397467,14.99024294,1780.937739,240.5456421,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Thamnophilus atrinucha,8.993105677,1.359835482,29,0,7.86,23.98967,11.291645,2234.15425,271.1542938,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Thamnophilus bridgesi,25.66081871,1.653212514,78,0.064102564,16.87,24.24523333,15.98120706,1795.7285,280.3144941,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,none
+Thamnophilus doliatus,22.94190435,1.544068044,742,0.004043127,0.51,25.20141254,12.94031022,2187.776174,265.3766085,Neotropic,Carnivore,Invertivore,Generalist,semi-open,resident,none
+Thamnophilus nigriceps,21.06685444,1.591064607,1076,0.001858736,-6.45,24.64782793,14.33643123,1919.008906,244.2926903,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,none
+Thripadectes rufobrunneus,12.66799445,1.749736316,10,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Thryomanes bewickii,13.76655823,0.995635195,398,0.010050251,33.44,14.60401014,33.03846566,649.101717,89.32517004,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,directional migratory,weak
+Thryophilus pleurostictus,10.89246257,1.247973266,40,0,14.96,23.90571552,17.02226034,1606.527086,314.2018398,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Thryophilus rufalbus,11.96491748,1.395675785,118,0.008474576,9.31,25.30774157,13.14898217,1868.809536,286.2389633,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Thryophilus sinaloa,7.56368071,1.178976947,49,0,22.37,21.14805606,24.19466364,923.6911364,224.8307638,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Thryorchilus browni,10.21366431,1.146128036,3,0,9.5,22.53175,11.456575,3191.6825,342.4655,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Thryothorus ludovicianus,11.40086673,1.277838333,329,0.015197568,33.66,16.02117298,32.25884126,1115.769751,86.18487694,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Tiaris olivaceus,18.86527778,0.929418926,159,0.157232704,15.1,23.96683333,14.42000053,1861.636667,245.4540571,Neotropic,Herbivore,Granivore,Granivore arboreal,semi-open,resident,weak
+Tityra inquisitor,28.47816922,1.63447727,1050,0.005714286,-6.07,24.53262657,14.84592916,1839.745095,241.2514515,Neotropic,Herbivore,Frugivore,Fugivore aerial,dense,resident,weak
+Tityra semifasciata,25.70851429,1.899273187,617,0.009724473,-2.09,24.71615876,14.40081737,2065.541356,267.3046559,Neotropic,Herbivore,Frugivore,Fugivore glean,dense,resident,weak
+Todirostrum cinereum,16.65422677,0.798650645,826,0.007263923,-5.12,24.31372018,14.74708772,1710.290964,245.0662933,Neotropic,Carnivore,Invertivore,Invertivore sally surface,semi-open,resident,strong
+Todirostrum nigriceps,16.39047098,0.812913357,74,0,6.63,24.0476602,11.11910531,2602.612245,293.2586336,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Tolmomyias assimilis,14.74082721,1.230448921,535,0,-2.69,25.25358122,12.73314932,2350.536643,265.5287599,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Tolmomyias flaviventris,16.21469835,1.086359831,612,0.001633987,-4.31,25.36653659,13.73217169,1958.833052,251.6820665,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Tolmomyias sulphurescens,14.64519144,1.155336037,1153,0.005203816,-6.11,24.41963585,14.92806863,1874.24676,242.6487577,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Torreornis inexpectata,9.020215722,1.40654018,4,0.5,21.48,25.230725,15.2732,1221.37625,169.905625,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,strong
+Toxostoma bendirei,19.68991289,1.793720557,101,0.00990099,33.61,14.87173254,36.37774419,332.8935791,57.85640633,Nearctic,Omnivore,Omnivore,NA,open,directional migratory,weak
+Toxostoma cinereum,16.14199585,1.770483809,18,0.222222222,27.04,20.69951875,26.012675,152.5121719,35.33661429,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Toxostoma crissale,19.33847505,1.797267541,117,0.008547009,29.45,17.77166613,32.73488452,367.2005013,72.18379814,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Toxostoma curvirostre,17.65231596,1.906011625,206,0.004854369,27.64,18.6122038,30.61590406,573.3783675,111.4337003,Nearctic,Omnivore,Invertivore,Invertivore ground,open,resident,strong
+Toxostoma guttatum,12.15987348,1.722633923,2,0.5,20.46,25.84445,14.9222,1272.335,166.09255,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Toxostoma lecontei,15.12783049,1.791690649,54,0.074074074,33.07,17.83864277,33.58340308,203.0758554,32.15076987,Nearctic,Carnivore,Invertivore,Invertivore ground,open,resident,weak
+Toxostoma longirostre,8.941850818,1.829946696,39,0,25.15,21.62743585,26.16288491,790.4154528,130.6982566,Nearctic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Toxostoma ocellatum,7.488938733,1.925776054,19,0,18.87,19.14205,21.53719583,1147.771958,222.2690042,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Toxostoma redivivum,9.5226603,1.926342447,31,0.064516129,36.18,13.87677578,28.56503778,593.2910222,109.4963396,Nearctic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,strong
+Toxostoma rufum,13.8886348,1.837588438,584,0,41.21,9.679856986,39.48366388,859.8888215,67.11841851,Nearctic,Omnivore,Omnivore,NA,dense,directional migratory,weak
+Troglodytes aedon,13.69709037,1.035429738,2475,0.007272727,3.52,17.78832144,23.30001888,1338.519424,161.5648969,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,open,directional migratory,strong
+Troglodytes hiemalis,12.40553703,0.988558957,2503,0.033160208,46.3,6.120052443,35.91322157,741.104205,88.45549221,Palearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Troglodytes ochraceus,15.13824885,0.973127854,10,0,9.15,24.08253636,11.61982727,2969.982727,383.7603718,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Troglodytes pacificus,12.40553703,0.988558957,2503,0.033160208,46.3,6.120052443,35.91322157,741.104205,88.45549221,Palearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Troglodytes rufociliatus,14.23300339,1,21,0,14.94,23.05483448,16.11182759,1879.975862,315.4018393,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,strong
+Troglodytes sissonii,13.75651855,0.892094603,2,1,18.86,24.075,14.075,288.625,73.375,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Troglodytes tanneri,14.45500404,1.003891166,1,1,18.06,24.7,13.3,108,25,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Tunchiornis ochraceiceps,16.29453704,1.064457989,594,0.006734007,-0.52,25.30556712,12.80219441,2376.741946,270.9245242,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Turdus assimilis,23.70332871,1.846337112,104,0.009615385,14.82,22.65135714,17.08312709,1893.827754,279.7855434,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Turdus aurantius,19.60096949,1.913283902,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Turdus fumigatus,22.0871965,1.87909588,419,0.007159905,-2.97,25.53631804,13.56627417,2012.716128,280.4276574,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Turdus grayi,22.84605722,1.900367129,131,0.045801527,14.89,24.57286806,15.25180173,1838.222021,277.8146862,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Turdus iliacus,34.96559525,1.786751422,1184,0.009290541,60.86,-2.767179227,45.91970706,515.7774379,53.29193515,Palearctic,Omnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Turdus infuscatus,26.63767314,1.859738566,44,0,17.22,22.77445254,18.10624068,1545.438797,280.3963122,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Turdus jamaicensis,20.87025106,1.771587481,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Turdus lherminieri,22.7037037,2.021189299,7,1,15.03,25.08205,10.25113333,1963.571667,168.3158833,Neotropic,Omnivore,Invertivore,Invertivore ground,dense,resident,weak
+Turdus migratorius,30.81546118,1.894869657,1648,0.003640777,47.88,4.160556142,39.91106012,716.3232687,70.51554033,Nearctic,Omnivore,Invertivore,Invertivore ground,open,directional migratory,weak
+Turdus nigrescens,24.78715747,1.982271233,4,0,9.5,23.10548333,12.06298333,3233.61,388.1686667,Neotropic,Omnivore,Omnivore,NA,open,resident,weak
+Turdus nudigenis,20.01095779,1.805432888,185,0.037837838,4.58,26.08926145,11.66986748,1978.562534,286.0036744,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Turdus obscurus,34.14296956,1.796574333,463,0.01511879,58.39,-6.845822457,58.25427455,459.54664,74.48631927,Palearctic,Omnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Turdus obsoletus,23.80473303,1.873901598,36,0,5.37,23.36336809,10.52092787,3297.846745,304.9627468,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Turdus pilaris,32.39601901,2.025305865,1349,0,57.52,-0.815825564,44.67333925,557.5232107,60.79253264,Palearctic,Carnivore,Invertivore,Invertivore ground,dense,directional migratory,weak
+Turdus plebejus,27.58365298,1.936161741,30,0,13.3,23.5054359,14.83463077,2103.209487,324.3576246,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Turdus plumbeus,22.00583245,1.876794976,17,0.470588235,18.76,24.83936786,13.678875,1482.667,156.1093357,Neotropic,Carnivore,Omnivore,NA,semi-open,resident,weak
+Turdus ravidus,21.18577075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,resident,weak
+Turdus rufitorques,27.54941602,1.857332496,14,0,15.65,22.83121667,16.38489444,2045.917778,340.4031083,Neotropic,Omnivore,Omnivore,NA,semi-open,resident,weak
+Turdus rufopalliatus,23.59698496,1.87517706,49,0.020408163,20.95,21.21885,22.77019118,971.5333382,231.8013807,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Turdus swalesi,18.37837838,1.875003354,3,0,18.73,23.674,15.56443333,1314.441667,167.0609167,Neotropic,Omnivore,Invertivore,Invertivore ground,semi-open,resident,weak
+Tyrannulus elatus,19.102657,0.84509804,620,0.001612903,-1.52,25.2350196,12.63882382,2309.786461,266.4317357,Neotropic,Omnivore,Invertivore,Invertivore sally surface,semi-open,resident,weak
+Tyrannus caudifasciatus,24.31739937,1.626955951,50,0.58,20.54,25.09046667,14.27622361,1358.372861,163.7839597,Neotropic,Carnivore,Invertivore,Generalist,dense,resident,weak
+Tyrannus couchii,26.61184957,1.591064607,71,0.056338028,20.91,23.59954742,19.92726598,1314.424732,205.4080003,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Tyrannus crassirostris,29.0523334,1.74733411,69,0,22.21,20.76866322,24.23538046,911.7160115,215.935163,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Tyrannus cubensis,25.08816919,1.971275849,21,0.428571429,21.46,25.23266,15.36029333,1268.660333,169.98696,Neotropic,Carnivore,Invertivore,Invertivore sally air,dense,resident,strong
+Tyrannus dominicensis,31.49667229,1.667452953,134,0.462686567,18.75,25.11459067,14.49355249,1263.359523,158.2211286,Neotropic,Carnivore,Omnivore,NA,open,directional migratory,weak
+Tyrannus forficatus,37.48264907,1.59439255,146,0,33.18,16.65958232,35.82010368,771.4836263,77.38386642,Nearctic,Omnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Tyrannus melancholicus,22.38582819,1.572871602,1473,0.005431093,-7.31,23.45906721,16.7772963,1657.444403,215.2684507,Neotropic,Carnivore,Invertivore,Invertivore sally air,open,directional migratory,strong
+Tyrannus savana,27.58223388,1.503790683,821,0.002436054,-19.67,21.58949302,20.650755,1301.300211,177.6667152,Neotropic,Carnivore,Invertivore,Invertivore sally air,open,directional migratory,weak
+Tyrannus tyrannus,33.9370985,1.600428326,876,0,44.52,6.909512788,40.34930944,779.2098781,62.23944688,Nearctic,Carnivore,Invertivore,Generalist,semi-open,directional migratory,weak
+Tyrannus verticalis,33.1752422,1.597695186,474,0.006329114,40.16,9.92473061,38.78454897,481.5975558,62.66440967,Nearctic,Carnivore,Invertivore,Invertivore sally air,open,directional migratory,weak
+Tyrannus vociferans,31.83867585,1.658964843,213,0.009389671,29.32,15.96497786,31.45614403,540.332542,110.6724449,Nearctic,Carnivore,Invertivore,Invertivore sally air,semi-open,directional migratory,weak
+Uropsila leucogastra,12.31306907,0.95568775,61,0.06557377,19.26,24.26824535,17.92413605,1407.42707,240.5875653,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Vermivora bachmanii,21.30347871,0.934498451,98,0,33.17,16.8278,32.9361,1440.53,81.1112,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vermivora chrysoptera,25.85828895,0.941511433,436,0.036697248,42.29,8.222373972,38.87022991,971.3991495,53.45331308,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vermivora cyanoptera,25.17831763,0.949390007,345,0,39.92,10.63216913,38.02872341,1029.459627,61.11225079,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Vireo altiloquus,25.63094825,1.278067331,102,0.647058824,21.22,24.95865385,14.45079538,1287.985338,151.9836092,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo atricapilla,15.50874328,0.953759692,53,0,30.12,18.77471579,33.13240702,603.4878596,67.99210228,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo bairdi,15.28893443,1.079181246,2,0.5,20.46,25.84445,14.9222,1272.335,166.09255,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Vireo bellii,21.89477956,0.929418926,449,0.008908686,34.23,15.04078523,36.3149559,633.1242882,77.25432614,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo brevipennis,13.27998975,1.071882007,25,0,18.25,21.35413548,20.65947742,1181.622323,253.7605497,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Vireo caribaeus,13.45238095,0.968482949,1,1,12.58,NA,NA,NA,NA,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Vireo carmioli,18.78399565,1.117271296,4,0,9.5,23.32667143,12.29904286,3182.258571,401.2873571,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo cassinii,26.52762279,1.167317335,351,0.017094017,45.82,6.656495278,32.88018358,785.1674065,98.51313982,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo crassirostris,15.18288478,1.114277297,30,0.966666667,23.02,25.40227879,13.35103939,1047.376909,138.2379848,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Vireo flavifrons,34.10268854,1.255272505,395,0,38.9,11.66549427,37.22347294,1037.722298,66.48094929,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo flavoviridis,26.09833829,1.245265839,146,0.04109589,18.06,23.36943538,18.64103439,1501.306533,264.5923984,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo gilvus,23.94848331,1.102776615,1120,0.00625,42.65,7.971942159,39.92023658,669.6318495,65.46880625,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Vireo griseus,17.30569402,1.056904851,336,0.005952381,34.13,15.8074138,33.21391811,1087.787427,79.73766958,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,strong
+Vireo gundlachii,11.35994941,1.11058971,17,0.294117647,21.54,25.26061875,15.357775,1251.956563,168.806525,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo huttoni,17.07827039,1.053078443,185,0.010810811,29.54,16.49394256,26.59998622,910.8532299,166.8858239,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo latimeri,14.07769592,1.079181246,4,1,18.46,24.98443333,13.38473333,1539.126667,138.8501,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo leucophrys,19.20119289,1.089905111,157,0,2.7,19.82515595,15.19243437,1797.339884,221.4984522,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo magister,19.53053906,1.187520721,10,0.4,18.4,25.74361176,13.32452353,1612.819412,218.7333647,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo modestus,12.35219747,0.982271233,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo nanus,12.74611857,1.021189299,6,0,19.01,24.91214545,14.36079091,1308.911455,146.5820636,Neotropic,Omnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireo nelsoni,12.0971352,0.973127854,30,0,18.52,20.85122286,21.38319429,1116.640314,244.1098311,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,weak
+Vireo olivaceus,24.07676159,1.205745541,1366,0.03147877,26.57,11.26826206,34.16726714,990.0245739,97.38907801,Nearctic,Omnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Vireo osburni,18.55913169,1.298853076,5,1,18.38,25.035275,10.173225,1723.065,202.2754,Neotropic,Omnivore,Omnivore,NA,dense,resident,weak
+Vireo pallens,14.05237412,1.041392685,60,0.083333333,17.74,24.9860956,17.07993319,1532.956681,269.9017588,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,resident,strong
+Vireo philadelphicus,26.64019652,1.06069784,659,0.053110774,51.46,1.135266476,44.79990127,671.0642977,55.69012163,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Vireo plumbeus,28.12269947,1.214843848,188,0,31.46,13.16513335,33.23562667,654.5412988,114.2380294,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,weak
+Vireo solitarius,29.7474022,1.184691431,754,0,49.95,1.921515849,44.41798497,762.9733327,56.0485024,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,dense,directional migratory,weak
+Vireo vicinior,15.43223443,1.10720997,84,0,34.87,12.69441368,37.535914,333.332301,44.41517245,Nearctic,Carnivore,Invertivore,Invertivore glean arboreal,semi-open,directional migratory,none
+Vireolanius eximius,18.01079007,1.450710878,29,0,8.25,24.76258537,11.7359139,2017.9,262.9588695,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireolanius melitophrys,17.24867725,1.540329475,44,0,17.81,21.6842931,19.67767586,1280.851552,266.4940278,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Vireolanius pulchellus,15.73188467,1.380211242,63,0.031746032,14.36,24.42487386,14.28717,2288.875034,332.1408285,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Volatinia jacarina,14.0579502,0.997386384,1379,0.005801305,-6.29,23.91259993,15.88727147,1722.632589,225.5219179,Neotropic,Herbivore,Granivore,Granivore ground,open,resident,none
+Xanthocephalus xanthocephalus,26.9955003,1.797128988,492,0.00203252,45.25,5.935311924,41.85784968,494.0265342,57.38292525,Nearctic,Herbivore,Granivore,Granivore ground,semi-open,directional migratory,weak
+Xenerpestes minlosi,20.05711942,1.041392685,22,0,6.33,24.4333375,10.50801031,3209.625938,321.638325,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Xenoligea montana,12.87978024,1.366982976,5,0,18.7,24.06507,14.723,1490.079,178.93488,Neotropic,Carnivore,Invertivore,Invertivore glean arboreal,dense,resident,weak
+Xenops genibarbis,21.97223812,1.025305865,935,0.003208556,-3.4,24.85761019,13.83426217,2064.941237,253.7001326,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Xenops rutilus,23.57903381,1.049218023,695,0.001438849,-11.83,23.35773995,16.49001648,1604.162954,219.5863094,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Xenornis setifrons,9.142857143,1.390935107,3,0,7.61,25.47498667,9.657625333,3596.172667,369.5942927,Neotropic,Carnivore,Invertivore,Invertivore sally surface,dense,resident,strong
+Xenospiza baileyi,13.37181179,1.240549248,20,0,21.92,18.17896364,23.67805909,911.4705,211.9670614,Nearctic,Omnivore,Invertivore,Invertivore ground,open,resident,weak
+Xenotriccus callizonus,14.38300217,1.049218023,12,0,15.65,22.42449375,16.39613125,2034.10875,338.6430781,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,resident,weak
+Xenotriccus mexicanus,15.32381791,1.139879086,21,0,17.72,22.50505652,20.22253913,1211.454261,264.4770952,Neotropic,Carnivore,Invertivore,Invertivore sally air,semi-open,resident,weak
+Xiphocolaptes promeropirhynchus,16.17113997,1.968669702,531,0,-2.12,24.24610748,13.97571817,2140.816111,252.4045218,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,strong
+Xiphorhynchus erythropygius,21.76433379,1.670245853,86,0,9.69,23.2846,13.28005626,2390.597203,307.3857297,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Xiphorhynchus flavigaster,18.16300941,1.664547962,112,0.035714286,18.6,23.66760188,18.56287375,1415.476594,259.1560886,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Xiphorhynchus lachrymosus,23.36827389,1.751279104,47,0,6.98,24.42690274,10.68556877,3110.478356,342.9060601,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Xiphorhynchus susurrans,18.08851264,1.669502834,92,0.02173913,NA,24.48415078,13.97258445,2069.734672,300.5827838,Neotropic,Carnivore,Invertivore,Invertivore bark,dense,resident,weak
+Zeledonia coronata,10.1,1.322219295,9,0,9.69,24.17223333,12.33421667,2910.029167,384.3514208,Neotropic,Carnivore,Invertivore,Invertivore ground,dense,resident,strong
+Zimmerius vilissimus,15.0648071,0.986771734,51,0.039215686,12.11,24.657072,12.87417347,2518.694133,357.3006501,Neotropic,Omnivore,Invertivore,Invertivore sally surface,dense,resident,weak
+Zonotrichia albicollis,19.75824595,1.387389826,599,0,52.69,-0.306028408,44.94800168,701.6831048,55.50006994,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Zonotrichia atricapilla,22.87820513,1.50501424,227,0.013215859,60.29,-2.566932806,37.56215882,687.700915,73.97717059,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
+Zonotrichia capensis,17.57931471,1.307709923,1091,0,-18.44,19.56242461,18.83065262,1258.148794,168.1133304,Neotropic,Herbivore,Omnivore,NA,open,directional migratory,weak
+Zonotrichia leucophrys,23.32851331,1.447158031,805,0.002484472,56.22,-2.620107011,42.87521031,516.3748979,55.80401712,Nearctic,Omnivore,Omnivore,NA,semi-open,directional migratory,weak
+Zonotrichia querula,23.69162282,1.550228353,202,0,64.43,-10.30065575,49.92510933,271.3464515,37.66538287,Nearctic,Herbivore,Omnivore,NA,semi-open,directional migratory,weak
