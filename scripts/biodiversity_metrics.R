@@ -14,34 +14,6 @@ library (phyloregion)
 library(data.table)
 library(tools)
 
-setwd("/Users/jesselaney/Desktop/Passerines/R_scripts/biodiversity_metrics")
-
-
-###Build Consensus Tree
-# read in multitree file (here we’re using the read.nexus function from the APE package):
-treefile <-read.nexus('needed_files/output.nex')
-
-#Create a consensus tree from 1000 trees.
-
-## method 1
-## Method 1: Compute the mean edge length for each edge in the consensus tree setting the length for each tree in which the edge is absent to zero. 
-## (Default setting. Function arguments method="mean.edge" and if.absent="zero".)
-#t1<-consensus.edges(treefile)
-#plotTree(t1, fsize=0.4)
-
-## method 2
-## Method 2: Compute the mean edge length, but ignore trees in which the edge is absent. 
-## (Function arguments method="mean.edge" and if.absent="ignore".)
-#t2<-consensus.edges(treefile,if.absent="ignore")
-#plotTree(t2,fsize=0.4)
-
-## method 3
-## Method 3: Compute the non-negative least squares edge lengths on the consensus tree using the mean patristic distance matrix. 
-## (Function argument method="least.squares".)
-## If the input trees are rooted & ultrametric, this can be used to produce a consensus tree that is also ultrametric.
-t3<-consensus.edges(treefile,method="least.squares")
-
-
 #######set up loop#######
 
 file_list <- list.files(path = "/Users/jesselaney/Desktop/Passerines/R_scripts/biodiversity_metrics", pattern = "*.csv")
@@ -67,7 +39,7 @@ comm.ds <- comm.ds[,-(which(colSums(comm.ds)==0))] #removes columns that contain
 
 #we need to clean up our community data, so that the species names match those in our phylogeny
 #i am am supplying a file that does that
-Phy_names <- read.csv("needed_files/reconciled_phy.csv", header = TRUE)
+Phy_names <- read.csv("data/reconciled_phy.csv", header = TRUE)
 #Phy_names <- read.csv("reconciled_phy.csv", header = TRUE)
 Phy_names$birdtree.names <- gsub(" ", "_", (Phy_names$birdtree.names))
 Phy_names$dataset.names <- gsub(" ", "_", (Phy_names$dataset.names))
@@ -100,7 +72,7 @@ rownames(traits)
 # bin species into 10 groups using Jenks natural break classification for the log distribution of body sizes across all NA species
 # Species body sizes are already logged in this case in the data set
 # First, we read in total species in all BCRs.
-total_spp <- read.csv("needed_files/total_spp_list.csv", header = TRUE)
+total_spp <- read.csv("data/total_spp_list.csv", header = TRUE)
 total_spp$Species <- gsub(" ", "_",(total_spp$Species))
 traits <- tibble::rownames_to_column(traits, "Species")
 
@@ -216,14 +188,13 @@ Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
 #calculate range weighted taxonomic richness of BCR (weighted endemism)
 Metrics$WE<- weighted_endemism(comm.matrix)
 
-
 colnames(Metrics)
 #reorder metrics data frame
 Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
 
 #write csv
 subject_id <- gsub(filename, pattern=".csv$", replacement="")
-write.csv(Metrics, paste0("BCR_",subject_id, "_breeding_metrics.csv"))
+write.csv(Metrics, paste0("BCR_",subject_id, "biometrics/_metrics.csv"))
 
 }
 
