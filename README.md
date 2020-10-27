@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jessealaney/North_America_Passerine_Diversity_Dimensionality">
-    <img src="na_pass_logo.png" alt="Logo" width="80" height="80">
+    <img src="na_pass_logo.png" alt="Logo" width="500" height="393">
   </a>
 
   <h3 align="center">North American Passerine Diversity Dimensionality</h3>
