@@ -1,27 +1,31 @@
-library(plyr)
-library(ape)
-library(phytools)
-library(picante)
-library(treescape)
-library(janitor)
-library(dplyr)
-library(vegan)
-library(pez)
-library(FD)
-library(classInt)
-library(tibble)
-library (phyloregion)
-library(data.table)
-library(tools)
+## ---------------------------
+##
+## Script name: biodiversity_metrics.R
+##
+## Purpose of script: calculates biodiversity metrics per BCR cells per seasonality scenario
+##
+## Author: Jesse A. Laney
+##
+## Date Created: 2020-10-27
+##
+## Copyright (c) Jesse A. Laney, 2020
+## Email: jessealaney@gmail.com
+##
+## ---------------------------
+
+
+#install.packages("pacman") 
+#pacman::p_load(ape, phytools, plyr, picante, treescape, janitor, vegan, pez, FD, classInt, tibble,phyloregion, data.table, tools, tidyr, dplyr)
 
 #######set up loop#######
 
-file_list <- list.files(path = "/Users/jesselaney/Desktop/Passerines/R_scripts/biodiversity_metrics", pattern = "*.csv")
-data_list <- vector("list", "length" = length(file_list))
+file_list <- list.files(path = "./data/50km_BCR_spp_matrices", pattern = "csv", recursive = TRUE, full.names = TRUE)
 
 for (i in seq_along(file_list)) {
-  filename = file_list[[i]]
-
+  try(
+    {
+      filename = file_list[[i]]
+      
 ########Community Data############
 
 # read BCR community data and use grid IDs as rownames (first column of data)
@@ -39,8 +43,7 @@ comm.ds <- comm.ds[,-(which(colSums(comm.ds)==0))] #removes columns that contain
 
 #we need to clean up our community data, so that the species names match those in our phylogeny
 #i am am supplying a file that does that
-Phy_names <- read.csv("data/reconciled_phy.csv", header = TRUE)
-#Phy_names <- read.csv("reconciled_phy.csv", header = TRUE)
+Phy_names <- read.csv("./data/reconciled_phy.csv", header = TRUE)
 Phy_names$birdtree.names <- gsub(" ", "_", (Phy_names$birdtree.names))
 Phy_names$dataset.names <- gsub(" ", "_", (Phy_names$dataset.names))
 
@@ -59,10 +62,10 @@ if (dup == TRUE) {
 
 ############Trait data############
 
-#We can load traitin the same way as the community data, but now we will have species in the rows and traits in the columns.
+#We can load traits in the same way as the community data, but now we will have species in the rows and traits in the columns.
 
 # replace filename with file.choose() to open interactive window
-traits <- read.csv("needed_files/traits.csv", header = TRUE, row.names = 1)
+traits <- read.csv("./data/traits.csv", header = TRUE, row.names = 1)
 
 # add underscore between spp names
 rownames(traits)
@@ -72,7 +75,7 @@ rownames(traits)
 # bin species into 10 groups using Jenks natural break classification for the log distribution of body sizes across all NA species
 # Species body sizes are already logged in this case in the data set
 # First, we read in total species in all BCRs.
-total_spp <- read.csv("data/total_spp_list.csv", header = TRUE)
+total_spp <- read.csv("./data/total_spp_list.csv", header = TRUE)
 total_spp$Species <- gsub(" ", "_",(total_spp$Species))
 traits <- tibble::rownames_to_column(traits, "Species")
 
@@ -166,38 +169,44 @@ Metrics$PSC<-tmp$PSCs
 #Calculate functional metrics
 
 #create a matrix based on diet niche (diet category + foraging category) and habitat type
-diet_habitat_niche <- subset(traits, select = c(13:15))
-traits_dist<-gowdis(diet_habitat_niche) # Gower distance because they are categorical traits
+#diet_habitat_niche <- subset(traits, select = c(13:15))
+#traits_dist<-gowdis(diet_habitat_niche) # Gower distance because they are categorical traits
 
 #calculate functional metrics for grid cells for the niche
-diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", m="min")
+#diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", m="min")
+
 #diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", calc.FRic = FALSE)
-Metrics$Functional_Group_Richness<-diet_habitat_FD[["sing.sp"]]
-Metrics$Functional_Richness<-diet_habitat_FD[["FRic"]]
+#Metrics$Functional_Group_Richness<-diet_habitat_FD[["sing.sp"]]
+#Metrics$Functional_Richness<-diet_habitat_FD[["FRic"]]
+
 #Metrics$Functional_Richness<- NA #blank column 
-Metrics$Functional_Evenness<-diet_habitat_FD[["FEve"]]
-Metrics$Functional_Divergence<-diet_habitat_FD[["FDiv"]]
-Metrics$Functional_Dispersion<-diet_habitat_FD[["FDis"]]
+#Metrics$Functional_Evenness<-diet_habitat_FD[["FEve"]]
+#Metrics$Functional_Divergence<-diet_habitat_FD[["FDiv"]]
+#Metrics$Functional_Dispersion<-diet_habitat_FD[["FDis"]]
 
 #create matrix of body size classes  and calculate # and evenness of body size classes per grid cell
-body_size_classes <-subset(traits, select = c(3))
-body_size_FD<-dbFD(body_size_classes, comm.matrix) #corr = "cailliez")
-Metrics$Body_Size_Richness<-body_size_FD[["FRic"]]
-Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
+#body_size_classes <-subset(traits, select = c(3))
+#body_size_FD<-dbFD(body_size_classes, comm.matrix) #corr = "cailliez")
+#Metrics$Body_Size_Richness<-body_size_FD[["FRic"]]
+#Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
 
 #calculate range weighted taxonomic richness of BCR (weighted endemism)
-Metrics$WE<- weighted_endemism(comm.matrix)
+#Metrics$WE<- weighted_endemism(comm.matrix)
 
 colnames(Metrics)
 #reorder metrics data frame
-Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
+#Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
 
 #write csv
-subject_id <- gsub(filename, pattern=".csv$", replacement="")
-write.csv(Metrics, paste0("BCR_",subject_id, "biometrics/_metrics.csv"))
+temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
+subject_id <- gsub(temp_name, pattern=".csv$", replacement="")
+#write.csv(Metrics, paste0(subject_id, "biometrics.csv"))
+path <- "50km_biometrics/"
+write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
+
+    },silent=T
+  )
 
 }
-
-
-
+warnings()
 

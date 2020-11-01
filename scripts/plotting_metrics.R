@@ -8,9 +8,7 @@ library(plyr)
 library(readr)
 library(ggplot2)
 
-setwd("/Users/jesselaney/Desktop/Passerines/breeding_BCR_metrics")
-
-file_list <- list.files(path = "/Users/jesselaney/Desktop/Passerines/breeding_BCR_metrics", pattern = "*_breeding_metrics.csv")
+file_list <- list.files(path = "./50km_biometrics", pattern = "*_biometrics.csv")
 
 plot.list = lapply(file_list, function(file) {
   df = read_csv(file)

@@ -1,5 +1,17 @@
-library(ape)
-library(phytools)
+## ---------------------------
+##
+## Script name: birdtree.R
+##
+## Purpose of script: this script creates a consensus phylogeny from a multitree file
+##
+## Author: Jesse A. Laney
+##
+## Date Created: 2020-10-27
+##
+## Copyright (c) Jesse A. Laney, 2020
+## Email: jessealaney@gmail.com
+##
+## ---------------------------
 
 ###Build Consensus Tree
 
@@ -7,7 +19,7 @@ library(phytools)
 #and then builds a consensus tree for use in further analyses by other scripts
 
 # read in multitree file (here we’re using the read.nexus function from the APE package):
-treefile <-read.nexus('data/output.nex')
+treefile <-read.nexus('./data/output.nex')
 
 #Create a consensus tree from 1000 tree using the phytools package
 

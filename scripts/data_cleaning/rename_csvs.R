@@ -8,3 +8,5 @@ new.names <- file.path(dirname(old.names), new.names)
 
 
 file.rename(old.names, new.names)
+
+getwd()
