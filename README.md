@@ -66,7 +66,7 @@ install.packages("pacman")
 pacman::p_load(ape, phytools, plyr, picante, treescape, janitor, vegan, pez, FD, classInt, tibble,phyloregion, data.table, tools, tidyr, dplyr)
 ```
 3. Run the master script
-```s
+```sh
 scripts/NA_passerines_dimensionality.R
 ```
 
