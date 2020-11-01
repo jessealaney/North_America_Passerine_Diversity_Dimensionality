@@ -41,7 +41,7 @@
 
 This is a project exploring the dimensionality (covariation of multiple dimensions of biodiversity) across passerines within North American bird conservation regions.
 
-MORE TO COME! UNDER CONSTRUCTION
+This project is currently under construction!
 
 ### Built With
 
@@ -65,14 +65,15 @@ git clone https://github.com/jessealaney/North_America_Passerine_Diversity_Dimen
 install.packages("pacman") 
 pacman::p_load(ape, phytools, plyr, picante, treescape, janitor, vegan, pez, FD, classInt, tibble,phyloregion, data.table, tools, tidyr, dplyr)
 ```
+3. Run the master script
+```s
+scripts/NA_passerines_dimensionality.R
+```
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/jessealaney/North_America_Passerine_Diversity_Dimensionality/issues) for a list of proposed features (and known issues).
-
-
-
 
 <!-- CONTACT -->
 ## Contact
