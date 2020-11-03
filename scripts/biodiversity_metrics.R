@@ -2,7 +2,9 @@
 ##
 ## Script name: biodiversity_metrics.R
 ##
-## Purpose of script: calculates biodiversity metrics per BCR cells per seasonality scenario
+## Purpose of script: calculates biodiversity metrics per BCR cells per seasonality scenario. 
+## 
+## This script is called by NA_passerines_dimensionality.R
 ##
 ## Author: Jesse A. Laney
 ##

@@ -4,6 +4,8 @@
 ##
 ## Purpose of script: this script creates a consensus phylogeny from a multitree file
 ##
+## This script is called by NA_passerines_dimensionality.R
+##
 ## Author: Jesse A. Laney
 ##
 ## Date Created: 2020-10-27
