@@ -171,40 +171,39 @@ Metrics$PSC<-tmp$PSCs
 #Calculate functional metrics
 
 #create a matrix based on diet niche (diet category + foraging category) and habitat type
-#diet_habitat_niche <- subset(traits, select = c(13:15))
-#traits_dist<-gowdis(diet_habitat_niche) # Gower distance because they are categorical traits
+diet_habitat_niche <- subset(traits, select = c(13:15))
+traits_dist<-gowdis(diet_habitat_niche) # Gower distance because they are categorical traits
 
 #calculate functional metrics for grid cells for the niche
-#diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", m="min")
+diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", m="min")
 
 #diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", calc.FRic = FALSE)
-#Metrics$Functional_Group_Richness<-diet_habitat_FD[["sing.sp"]]
-#Metrics$Functional_Richness<-diet_habitat_FD[["FRic"]]
+Metrics$Functional_Group_Richness<-diet_habitat_FD[["sing.sp"]]
+Metrics$Functional_Richness<-diet_habitat_FD[["FRic"]]
 
 #Metrics$Functional_Richness<- NA #blank column 
-#Metrics$Functional_Evenness<-diet_habitat_FD[["FEve"]]
-#Metrics$Functional_Divergence<-diet_habitat_FD[["FDiv"]]
-#Metrics$Functional_Dispersion<-diet_habitat_FD[["FDis"]]
+Metrics$Functional_Evenness<-diet_habitat_FD[["FEve"]]
+Metrics$Functional_Divergence<-diet_habitat_FD[["FDiv"]]
+Metrics$Functional_Dispersion<-diet_habitat_FD[["FDis"]]
 
 #create matrix of body size classes  and calculate # and evenness of body size classes per grid cell
-#body_size_classes <-subset(traits, select = c(3))
-#body_size_FD<-dbFD(body_size_classes, comm.matrix) #corr = "cailliez")
-#Metrics$Body_Size_Richness<-body_size_FD[["FRic"]]
-#Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
+body_size_classes <-subset(traits, select = c(3))
+body_size_FD<-dbFD(body_size_classes, comm.matrix) #corr = "cailliez")
+Metrics$Body_Size_Richness<-body_size_FD[["FRic"]]
+Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
 
 #calculate range weighted taxonomic richness of BCR (weighted endemism)
-#Metrics$WE<- weighted_endemism(comm.matrix)
+Metrics$WE<- weighted_endemism(comm.matrix)
 
 colnames(Metrics)
 #reorder metrics data frame
-#Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
+Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
 
 #write csv
-temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
-subject_id <- gsub(temp_name, pattern=".csv$", replacement="")
-#write.csv(Metrics, paste0(subject_id, "biometrics.csv"))
-path <- "50km_biometrics/"
-write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
+#temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
+#subject_id <- gsub(temp_name, pattern=".csv$", replacement="")
+#path <- "50km_biometrics/"
+#write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
 
     },silent=T
   )
