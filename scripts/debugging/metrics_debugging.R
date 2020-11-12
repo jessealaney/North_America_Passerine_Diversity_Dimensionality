@@ -153,6 +153,7 @@ for (i in seq_along(file_list)) {
       
       #Calculate (Phylogenetic) Endemism
       Metrics$PE<-pez.endemism(data, sqrt.phy = FALSE)
+      #Metrics$PE <-phylo_endemism(comm, phy, weighted = TRUE)
       tmp<-Metrics$PE
       Metrics$PE<-tmp$PE
       
@@ -179,26 +180,26 @@ for (i in seq_along(file_list)) {
       diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", m="min")
       
       #diet_habitat_FD<-dbFD(traits_dist, comm.matrix, corr = "cailliez", calc.FRic = FALSE)
-      Metrics$Functional_Group_Richness<-diet_habitat_FD[["sing.sp"]]
-      Metrics$Functional_Richness<-diet_habitat_FD[["FRic"]]
+      Metrics$diethab_groups<-diet_habitat_FD[["sing.sp"]]
+      Metrics$diethab_FRic<-diet_habitat_FD[["FRic"]]
       
       #Metrics$Functional_Richness<- NA #blank column 
-      Metrics$Functional_Evenness<-diet_habitat_FD[["FEve"]]
-      Metrics$Functional_Divergence<-diet_habitat_FD[["FDiv"]]
-      Metrics$Functional_Dispersion<-diet_habitat_FD[["FDis"]]
+      Metrics$diethab_FEve<-diet_habitat_FD[["FEve"]]
+      Metrics$deithab_FDiv<-diet_habitat_FD[["FDiv"]]
+      Metrics$diethab_FDis<-diet_habitat_FD[["FDis"]]
       
       #create matrix of body size classes  and calculate # and evenness of body size classes per grid cell
       body_size_classes <-subset(traits, select = c(3))
       body_size_FD<-dbFD(body_size_classes, comm.matrix) #corr = "cailliez")
-      Metrics$Body_Size_Richness<-body_size_FD[["FRic"]]
-      Metrics$Body_Size_Evenness<-body_size_FD[["FEve"]]
+      Metrics$Size_FRic<-body_size_FD[["FRic"]]
+      Metrics$Size_FEve<-body_size_FD[["FEve"]]
       
       #calculate range weighted taxonomic richness of BCR (weighted endemism)
       Metrics$WE<- weighted_endemism(comm.matrix)
       
       colnames(Metrics)
       #reorder metrics data frame
-      Metrics <- Metrics[,c(2,15,1,4:7,3,13,14,8,9,10:12),]
+      Metrics <- Metrics[,c(2,15,1,4,7,3,13,14,8,9,10:12),]
       
       #write csv
       temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
