@@ -21,8 +21,11 @@
 
 #######set up loop#######
 
+metrics_list <- list()
+#names(metrics_list) <- paste0("50km_", subject_id,"_biometrics", seq_along(metrics_list))
+
 file_list <- list.files(path = "./data/50km_BCR_spp_matrices/breeding_BCR/", pattern = "csv", recursive = TRUE, full.names = TRUE)
-file_list <- file_list[1]
+#file_list <- file_list[1]
 
 for (i in seq_along(file_list)) {
   try(
@@ -204,8 +207,12 @@ for (i in seq_along(file_list)) {
       #write csv
       temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
       subject_id <- gsub(temp_name, pattern=".csv$", replacement="")
-      path <- "50km_biometrics/"
-      write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
+      #path <- "50km_biometrics_datafiles/"
+      #write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
+      #metrics_list[[i]] <-data.frame(Metrics)
+      #name <- paste("50km_", subject_id, "_biometrics", i)
+      metrics_list[[i]] <-data.frame(Metrics)
+  
       
     },silent=T
   )
