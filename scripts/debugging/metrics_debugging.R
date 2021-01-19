@@ -21,13 +21,17 @@
 
 #######set up loop#######
 
-metrics_list <- list()
+file_list <- list.files (path = "./data/50km_BCR_spp_matrices/breeding_BCR/", pattern = "csv", recursive = TRUE, full.names = TRUE)
+
 #names(metrics_list) <- paste0("50km_", subject_id,"_biometrics", seq_along(metrics_list))
 
-file_list <- list.files(path = "./data/50km_BCR_spp_matrices/breeding_BCR/", pattern = "csv", recursive = TRUE, full.names = TRUE)
 #file_list <- file_list[1]
 
-for (i in seq_along(file_list)) {
+#biometrics_function<- function(data){
+  biometrics <- list() #Create a list in which you intend to save your df's.
+  
+  
+  for (i in seq_along(file_list)) {
   try(
     {
       filename = file_list[[i]]
@@ -204,19 +208,32 @@ for (i in seq_along(file_list)) {
       #reorder metrics data frame
       Metrics <- Metrics[,c(2,15,1,4,7,3,13,14,8,9,10:12),]
       
-      #write csv
-      temp_name<-sapply(strsplit(filename, "/"), "[[", 5)
-      subject_id <- gsub(temp_name, pattern=".csv$", replacement="")
-      #path <- "50km_biometrics_datafiles/"
-      #write.csv(Metrics, file.path(path, subject_id, "_biometrics.csv", fsep=""), row.names=TRUE)
-      #metrics_list[[i]] <-data.frame(Metrics)
-      #name <- paste("50km_", subject_id, "_biometrics", i)
-      metrics_list[[i]] <-data.frame(Metrics)
   
-      
     },silent=T
   )
+    
+    biometrics[[i]] <- Metrics # save your dataframes into the list
+    
+    
+  }
   
-}
-warnings()
+  biometrics_named<-biometrics
+  
+  names(biometrics_named) <- stringr::str_replace(file_list, pattern = ".csv", replacement = "")
+  
+  
+  names(biometrics_named)<-sub('.*\\//', '', file_list)
+  
+    
+    
+    
+
+
+
+    
+
+ 
+  
+
+
 
