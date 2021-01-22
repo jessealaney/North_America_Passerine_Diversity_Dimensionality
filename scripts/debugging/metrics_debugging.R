@@ -217,12 +217,10 @@ file_list <- list.files (path = "./data/50km_BCR_spp_matrices/breeding_BCR/", pa
     
   }
   
-  biometrics_named<-biometrics
+  #biometrics_named<-biometrics
   
-  names(biometrics_named) <- stringr::str_replace(file_list, pattern = ".csv", replacement = "")
-  
-  
-  names(biometrics_named)<-sub('.*\\//', '', file_list)
+  names(biometrics) <- stringr::str_replace(file_list, pattern = ".csv", replacement = "")
+  names(biometrics)<-sub('.*\\//', '', file_list)
   
     
     
