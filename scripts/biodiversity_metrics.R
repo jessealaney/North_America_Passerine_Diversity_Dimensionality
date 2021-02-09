@@ -22,7 +22,7 @@
 #######set up list to loop through#######
 
 #list of csv files of spp. occurrence per 50 km grid cell per BCR
-file_list <- list.files (path = "./data/50km_BCR_spp_matrices/breeding_BCR/", pattern = "csv", recursive = TRUE, full.names = TRUE)
+file_list <- list.files (path = "./data/50km_BCR_spp_matrices/all_scenarios_BCR/", pattern = "csv", recursive = TRUE, full.names = TRUE)
 
 biometrics <- list() #Create a list in which you intend to save your df's.
 
