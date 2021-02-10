@@ -198,7 +198,7 @@ for (i in seq_along(file_list)) {
       Metrics$Size_FEve<-body_size_FD[["FEve"]]
       
       #calculate range weighted taxonomic richness of BCR (weighted endemism)
-      Metrics$WE<- weighted_endemism(comm.matrix)
+      #Metrics$WE<- weighted_endemism(comm.matrix)
       
       colnames(Metrics)
       #reorder metrics data frame

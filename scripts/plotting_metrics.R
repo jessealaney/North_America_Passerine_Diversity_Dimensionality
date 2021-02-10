@@ -8,7 +8,7 @@
 ##
 ## Date Created: 2020-11-12
 ##
-## Copyright (c) Jesse A. Laney, 2020
+## Copyright (c) Jesse A. Laney, 2021
 ## Email: jessealaney@gmail.com
 ##
 ## ---------------------------
@@ -18,10 +18,13 @@
 ##
 ## ---------------------------
 
-setwd("/Users/jesselaney/North_America_Passerine_Diversity_Dimensionality/plots")
-
 library(tidyverse)
 library(GGally)
+
+
+##### plot biodiversity metrics
+
+setwd("/Users/jesselaney/North_America_Passerine_Diversity_Dimensionality/plots")
 
 for (i in seq_along(biometrics)) {
   try( {
@@ -42,8 +45,6 @@ for (i in seq_along(biometrics)) {
   }
   )}
 
-setwd("/Users/jesselaney/North_America_Passerine_Diversity_Dimensionality/plots/env_plots/elev/")
-
 
 #Create subsets of env metric list
 elev_metrics<- list()
@@ -51,6 +52,8 @@ roughness_metrics <- list()
 TPI_metrics <- list()
 TRI_metrics <- list()
 VRM_metrics <- list()
+
+setwd("/Users/jesselaney/North_America_Passerine_Diversity_Dimensionality/plots/env_plots/elev/")
 
 #########fill lists with data frames for only desired env. metrics
 ########first elevation metrics per BCR
